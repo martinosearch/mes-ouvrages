@@ -1,0 +1,385 @@
+\documentclass[12pt,a4paper]{book}
+\usepackage[minitoc]{teach}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+
+\author{YAWO Kossi Atsu}
+\newcommand{\prof}{YAWO Kossi Atsu}
+\newcommand{\matiere}{MATHEMATIQUES}
+\newcommand{\classe}{3$^{ème}$}
+\title{Mes devoirs de Mathématiques}
+\begin{document}
+\begin{devoir}{DEVOIR SURVEILLE DU PREMIER TRIMESTRE}{\matiere}{\classe}{2}{2H}{13 novembre 2019}{\prof}
+\begin{exo}[5]
+\begin{enumerate}
+\item Calcule et mets les résultats sous la forme de fractions irréductibles:
+$A=\frac{5}{3}-\frac{1}{3}\times\frac{9}{16}$ \qquad ; \qquad $B=\frac{3}{4}-\frac{2}{3}:\frac{18}{15}$.
+\item Calcule et écris le résultat en notation scientifique: $C=\frac{8\times10^8\times1,6}{0,4\times10^{-3}}$.
+\competence{•}{3}
+\item Les dimensions d'un terrain rectangulaire sont proportionnelles à 5 et 9. Sachant que le demi-périmètre de ce terrain est 280m,
+\begin{enumerate}
+\item Détermine la longueur et la largeur de ce terrain.
+\item Calcule l'aire de ce terrain.
+\competence{•}{2}
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\vspace{1cm}
+\begin{exo}[4]
+\begin{enumerate}
+\item On pose $D=\sqrt{3+2\sqrt{2}}$ et $E=\sqrt{3-2\sqrt{2}}$.
+\begin{enumerate}
+\item Calcule $(1+\sqrt{2})^2$ et $(1-\sqrt{2})^2$
+\item En déduire la valeur la plus simple de $D$ et $E$.
+\item Calcule $D+E$ ; $D-E$ et $\frac{D}{E}$.
+\end{enumerate}
+\item Ecris sous la forme de $a\sqrt{b}$: $C=\sqrt{12}-\sqrt{3}+\sqrt{48}$
+\item Montre que $C=(\sqrt{5}+\sqrt{10})^2-10\sqrt{2}$ est un nombre entier.
+\end{enumerate}
+\competence{•}{4}
+\end{exo}
+
+\vspace{1cm}
+
+\begin{exo}[5]
+On donne les polynômes suivants: $P=(x-7)(3x+2)+x^2-49-(x+5)(x-7)$ et $Q=(x-2)^2-25$
+\begin{enumerate}
+\item Développe réduis et ordonne P suivant les puissances décroissantes de x.
+\item Factorise P et Q.
+\competence{•}{1.5}
+\item Soit la fraction rationnelle: $R=\frac{(x-7)(3x+4)}{(x-7)(x+3)}$.
+\begin{enumerate}
+\item Détermine la condition d'existence d'une valeur numérique de R.
+\item Simplifie R dans cette condition d'existence.
+\item Détermine la valeur numérique de R pour $x=-2$ et pour $x=\sqrt{3}$.
+\item Pour quelle valeur de $x$ a-t-on $R=0$? $R=\frac{2}{3}$?
+\competence{•}{3.5}
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\vspace{1cm}
+
+
+\begin{exo}[6]
+L'unité de longueur est le centimètre. $ABC$ est un triangle rectangle en B tel que $AB=12$ et $BC=5$. Fais une figure que tu compléteras au fur et à mesure.
+\begin{enumerate}
+\item  Marque le point D de $[AB]$ tel $AD=9$ puis trace la perpendiculaire à $(AB)$ en D; elle coupe $(AC)$ en $E$.
+\item Calculer $AC$.
+\competence{•}{1}
+\item Que peux-tu dire des droite $(DE)$ et $(BC)$? Justifie.
+\competence{•}{2}
+\end{enumerate}
+\competence{figure}{3}
+\end{exo}
+\tableofcompetences
+\end{devoir}
+
+\newpage
+\begin{td}{\matiere}{\classe}{23 novembre 2019}{\prof}
+\begin{exo}
+On donne les polynômes suivants: $M=1-16x^2$ et $N=(3x+15)(x+2)+x^2-25$.
+\begin{enumerate}
+\item Développe, réduis et ordonne suivants les puissances de x le polynôme N.
+\item Écris $M$ et $N$ sous la forme d'un produit de facteurs du premier degré.
+\item Soit la fraction rationnelle: $F=\frac{1-16x^2}{(x+5)(4x+1)}$
+\begin{enumerate}
+\item Détermine la condition d'existence d'une valeur numérique de $F$.
+\item Simplifie l'expression de $F$ lorsqu'elle existe.
+\item Détermine la valeur numérique de $F$ pour $x=-2$ et pour $x=\sqrt{3}$.
+\item Pour quelle valeur de x a-t-on $F=-\frac{2}{3}$
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+\vspace{1cm}
+
+\begin{exo}
+\begin{enumerate}
+\item On donne : $A=\frac{8}{3}+(\frac{3}{4}-\frac{5}{6})+\frac{3}{16}$.\\
+Calcule A et donne le résultat sous forme de fraction irréductible.
+\item Calcule $(3-2\sqrt{5})^2$ et écris plus simplement $B=\sqrt{29-12\sqrt{5}}$.
+\item On considère l'expression $C=\frac{\sqrt{2}(\sqrt{2}-\sqrt{3})}{\sqrt{3}+\sqrt{2}}$
+\begin{enumerate}
+\item Rend rationnel le dénominateur de $A$.
+\item Donne un encadrement de $A$ à $10^{-2}$ près sachant que $1,414<\sqrt{2}<1,415$ et $1,732<\sqrt{3}<1,733$
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+\vspace{1cm}
+
+\begin{exo}
+$\mathcal{(C)}$ est un cercle de centre $O$ et de diamètre $[BC]$ tel que $BC=8$. $A$ est un point du cercle $\mathcal{(C)}$ tel que $BA=4$. $B'$ est le symétrique de B par rapport à $A$. 
+\begin{enumerate}
+\item Démontre que le triangle $BAC$ est rectangle en $A$.
+\item Calcule $AC$.
+\item Démontre que $AOB$ est un triangle équilatéral.
+\item Calcule la mesure en degré de chacun des angles du triangle $AOC$.
+\item Calcule $BB'$.
+\item Démontre que $(AC)$ est la médiatrice de $[BB']$
+\end{enumerate}
+\end{exo}
+\end{td}
+
+\newpage
+\begin{devoir}{COMPOSITION DU PREMIER TRIMESTRE}{\matiere}{\classe}{2}{2H}{13 décembre 2019}{\prof}
+
+\begin{exo}[4]
+\begin{enumerate}
+\item Calcule et donne le résultat sous forme de fraction irréductible: $A=\frac{8}{3}+(\frac{3}{4}-\frac{5}{6})+\frac{3}{16}$ \qquad ;\qquad $B=\frac{5}{3}-\frac{1}{3}\times\frac{9}{16}$
+\competence{fraction}{1.5}
+\item Calcule et donne le résultat en notation scientifique: $C=\frac{6\times 10^5-6\times10^3}{3\times10^{11}}$
+\competence{puissance}{1}
+\item Calcule $(3-2\sqrt{5})^2$ et écris plus simplement $D=\sqrt{29-12\sqrt{5}}$.
+\item Ecris sous la forme de $a\sqrt{b}$ où $a$ et $b$ sont des nombres entiers et $b$ le plus petit possible: $E=\sqrt{27}+7\sqrt{75}-\sqrt{300}$
+\competence{racine carrées}{1.5}
+\end{enumerate}
+\end{exo}
+\vspace{0.5cm}
+
+\totalexo
+
+
+
+\begin{exo}[5]
+On donne les polynômes suivants: $M=1-16x^2$ et $N=(3x+15)(x+2)+x^2-25$.
+\begin{enumerate}
+\item Développe, réduis et ordonne suivants les puissances de x le polynôme N.
+\competence{développer}{0.5}
+\item Écris $M$ et $N$ sous la forme d'un produit de facteurs du premier degré.
+\competence{factoriser}{1}
+\item Soit la fraction rationnelle: $F=\frac{1-16x^2}{(x+5)(4x+1)}$
+\begin{enumerate}
+\item Détermine la condition d'existence d'une valeur numérique de $F$.
+\competence{condition d'existence}{0.75}
+\item Simplifie l'expression de $F$ lorsqu'elle existe.
+\competence{simplifier}{0.75}
+\item Détermine la valeur numérique de $F$ pour $x=-2$ et pour $x=\sqrt{3}$.
+\competence{valeur numérique}{1.5}
+\item Pour quelle valeur de x a-t-on $F=-\frac{2}{3}$
+\competence{équation}{0.5}
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+\vspace{0.5cm}
+
+\totalexo
+\begin{exo}[6]
+\begin{enumerate}
+\item Construire un triangle ABC tel que $AC=12cm$, $AB=13cm$ et $BC=5cm$.
+\item Placer le point R appartenant à $[AC]$ tel que $AR=9cm$.
+\item Placer le point T appartenant à $[AB]$ tel que la droite $(RT)$ soit perpendiculaire à la droite $(AC)$.
+\item Démontre que le triangle $ABC$ est rectangle.
+\item Que peut-on dire des droites $(RT)$ et $(BC)$? Justifier.
+\item Calcule la valeur exacte de la longueur du segment $[AT]$.
+\end{enumerate}
+
+\competence{•}{6}
+\end{exo}
+
+\totalexo
+
+\vspace{0.5cm}
+
+\begin{exo}[5]
+$\mathcal{(C)}$ est un cercle de centre $O$ et de diamètre $[BC]$ tel que $BC=8$. $A$ est un point du cercle $\mathcal{(C)}$ tel que $BA=4$. $B'$ est le symétrique de B par rapport à $A$. 
+\begin{enumerate}
+\item Démontre que le triangle $BAC$ est rectangle en $A$.
+\competence{cercle circonscrit à un triangle}{0.5}
+\item Calcule $AC$.
+\competence{théorème de Pythagore}{1}
+\item Démontre que $AOB$ est un triangle équilatéral.
+\competence{cercle et distance}{1}
+\item Calcule la mesure en degré de chacun des angles du triangle $AOC$.
+\competence{angles d'un triangle}{1.5}
+\item Calcule $BB'$.
+\competence{symétrie}{0.5}
+\item Démontre que $(AC)$ est la médiatrice de $[BB']$
+\competence{médiatrice d'un segment}{0.5}
+\end{enumerate}
+\end{exo}
+
+\totalexo
+
+\tableofcompetences
+\end{devoir}
+
+\newpage
+\begin{td}{\matiere}{\classe}{25 janvier 2020}{\prof}
+\begin{exo}
+\begin{enumerate}
+\item On donne les polynômes suivants: \\
+$F=(12x^2-3)(x+3)+(x^2-9)(2x-1)$ \qquad et \qquad $G=4x^3-x$.
+\begin{enumerate}
+\item Factorise F et G.
+\item Développe, réduis et ordonne F suivant les puissances croissantes de $x$.
+\end{enumerate}
+\item Soit H la fraction rationnelle telle que: $H=\frac{(12x^2-3)(x+3)+(x^2-9)(2x-1)}{4x^3-x}$.
+\begin{enumerate}
+\item Trouve la condition d'existence d'une valeur numérique de H.
+\item Simplifie l'écriture de H.
+\item Pour quelle valeur numérique de H=0? H=1.
+\item Calcule la valeur numérique de H pour $x=\sqrt{2}$ puis donne un encadrement à $10^-2$ près de cette valeur sachant que: $1,414<\sqrt{2}<1,415$.
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\vspace{1cm}
+\begin{exo}
+Le plan étant muni d'un repère orthonormé $(O,I,J)$ et l'unité de longueur le centimètre, on considère les points: $A(-5;1)$; $B(1;7)$ et $D(1;1)$.
+\begin{enumerate}
+\item \begin{enumerate}
+\item Place les points A, B et C dans ce repère. (On compléteras la figure au fur et à mesure).
+\item Calcule les coordonnées des vecteurs $\overrightarrow{AB}$, $\overrightarrow{AD}$ et $\overrightarrow{BD}$ puis en déduire les distances $AB$, $AD$ et $BD$.
+\item Quelle est la nature du triangle BAD? Justifier.
+\end{enumerate}
+\item On considère le point $E(7;7)$. Démontre que le quadrilatère BADE est un parallélogramme puis calculer les coordonnées de son centre M.
+\item \begin{enumerate}
+\item Détermine une équation de la droite $(AB)$ puis de la droite $(AE)$ sous la forme de $y=ax+b$.
+\item En déduire le coefficient directeur de la droite $(DE)$.
+\end{enumerate}
+\item Soit $(\Delta)$ la perpendiculaire à $(AE)$ passant par $D$; $(\Delta)$ coupe  $(AE)$ en $G$.
+\begin{enumerate}
+\item Détermine les coordonnées du vecteur $\overrightarrow{AE}$ puis en déduire une équation de $(\Delta)$.
+\item Calculer les coordonnées du point G.
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+\end{td}
+\footnote{\textit{"A person who never made a mistake never tried anything new." — Albert Einstein}}
+\footnote{\textit{"Procrastination makes easy things hard and hard things harder." — Mason Cooley}}
+
+\newpage
+\begin{devoir}{DEVOIR SURVEILLÉ DU DEUXIÈME TRIMESTRE}{\matiere}{\classe}{2}{2H}{12 février 2020}{\prof}
+\begin{exo}[5,5pts]
+\begin{enumerate}
+\item On donne les nombres suivants:\\
+$A=(-4) \times (4-2^3)$ \qquad ; \qquad $B=\frac{(2^3)^2 \times 10^{-7}}{32 \times 10^{-8}}$ \qquad ; \qquad $C=3\sqrt{8}-3\sqrt{2}+\sqrt{32}-2\sqrt{18}$ \qquad ; \qquad $D=3\sqrt{36}+2\sqrt{100}-\sqrt{144}$ \qquad ; \qquad 
+$E=\frac{3}{2}-\frac{10}{3}\times \frac{12}{5}$
+\begin{enumerate}
+\item Montre que A, B et D sont des nombres entiers à déterminer. 
+\item Écris plus simplement C.
+\item Écris E sous la forme de fractions irréductible.
+\end{enumerate}
+\item On donne les intervalles suivants: $A=]\leftarrow;-3[$ \qquad ; \qquad $B=]-5;2[$ \qquad et \qquad $C=]1;7[$
+\begin{enumerate}
+\item Traduis chacun de ces intervalles par une inégalité.
+\item Détermine: $A\cap B$ \qquad ; \qquad $B\cup C$ \qquad et \qquad $A \cap C$
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+\begin{exo}[5]
+On donne les polynômes suivants:\\
+$M=4(x-1)^2-(x-5)^2$ \qquad ; \qquad $N=x^2-6x+9-(3-x)(2x+1)$
+\begin{enumerate}
+\item Développe, réduis et ordonne M suivant les puissances décroissantes de x.
+\item Écris M et N sous la forme de produit de facteurs du premier degré.
+\item On considère la rationnelle $H=\frac{x^2-6x+9}{(3x-2)(x-3)}$
+\begin{enumerate}
+\item Détermine la condition d'existence d'une valeur numérique de H.
+\item Simplifie H lorsqu'elle existe.
+\item Calcule la valeur numérique de H pour $x=\sqrt{2}$, écris le résultat sans radical au dénominateur.
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[5]
+L'unité de longueur est le centimètre. Soit $\mathcal{(C)}$ le demi-cercle de diamètre $[NI]$ tel que $NI=10$. O est un point de $\mathcal{(C)}$ tel que $OI=6$.
+\begin{enumerate}
+\item Fais une figure que tu complèteras au fur et à mesure.
+\item Démontre que le triangle $NIO$ est rectangle.
+\item Calcule NO.
+\item H est le projeté orthogonal de $O$ sur $[NI]$. Calcule OH, $tan\widehat{INO}$ puis déduis un encadrement d'ordre zéro de la mesure de l'angle $\widehat{INO}$.
+\item Place le point P sur le segment $[NO]$ tel que $\overrightarrow{OP}=\frac{3}{4}\overrightarrow{ON}$. La parallèle à $(OI)$ passant par $P$ coupe $[NI]$ en $R$. Calcule $PR$.
+\end{enumerate}
+\end{exo}
+
+\begin{exo}[4,5]
+Dans le plan muni d'un repère orthonormé (O,I,J) on donne les points: $A(-3;0)$ ; $B(2;-3)$ et $C(5;2)$.
+\begin{enumerate}
+\item Calcule AB, BC et AC.
+\item Justifie que le triangle ABC est rectangle et isocèle.
+\item Calcule les coordonnées du point K milieu de [AC].
+\item D est l'image de B par la symétrie de centre K. Calcule les coordonnées de D.
+\item Donne et justifie la nature du quadrilatère ABCD.
+\end{enumerate}
+\end{exo}
+\tableofcompetences
+\end{devoir}
+
+
+\newpage
+
+
+\begin{td}{\matiere}{\classe}{29 février 2020}{\prof}
+\begin{exo}
+Dans le plan muni d'un repère orthonormé (O, I, J), on considère les points A, B et C tel que: $\overrightarrow{OA}=7\overrightarrow{OI}+\overrightarrow{OJ}$ ; $\overrightarrow{OB}=8\overrightarrow{OI}+4\overrightarrow{OJ}$ et $\overrightarrow{CO}=\overrightarrow{OI}-7\overrightarrow{OJ}$.
+\begin{enumerate}
+\item Place les points A, B et C dans le repère. \emph{(0,5pt)}
+\item \begin{enumerate}
+\item Montre que les vecteurs $\overrightarrow{AB}$ et $\overrightarrow{BC}$ sont orthogonaux. \emph{(1pt)}.
+\item Donne en justifie la nature du triangle ABC. \emph{(0,5pt)}
+\end{enumerate}
+\item Soient le point M milieu du segment [AC] et le point D symétrique de B par rapport à M.
+\begin{enumerate}
+\item Détermine les coordonnées de M et de D. \emph{(1pt)}
+\item Précise la nature du quadrilatère ABCD. Justifie. \emph{(1pt)}
+\end{enumerate} 
+\item \begin{enumerate}
+\item Construis le cercle $\mathcal{C}$ circonscrit au quadrilatère ABCD. \emph{(0,5pt)}
+\item Précise son centre, calcule son rayon et montre qu'il passe par le point O. \emph{(1,5pt)}
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\vspace{1cm}
+
+\begin{exo}
+Le plan est muni d'un repère orthonormé (O, I, J). L'unité de longueur est le centimètre.
+\begin{enumerate}
+\item \begin{enumerate}
+\item Place dans le repère les points A(0;4), B(6;1) et C(2;-3).
+\item Construis H le projeté orthogonal du point C sur la droite (AB).
+\end{enumerate}
+\item On se propose de déterminer les coordonnées du point H; pour cela:
+\begin{enumerate}
+\item Détermine une équation cartésienne de la droite (AB).
+\item Détermine le coefficient directeur et une équation cartésienne de la droite (CH).
+\item Déduis- en les coordonnées de H.
+\end{enumerate}
+\end{enumerate}
+
+\vspace{0.3cm}
+\end{exo}
+
+\vspace{1cm}
+
+\begin{exo}
+Soient $f$ et $g$ deux applications définies sur $\mathbb{R}$ par:\\
+$f(x)=(9x^2-25)(4x-1)+(16x^2-8x+1)(6x-10)$ et $g(x)=(3x-5)[(5x-1)^2-4(3x+2)^2]$
+\begin{enumerate}
+\item Mettre $f(x)$ et $g(x)$ sous la forme de produit de facteurs du premier degré.
+\item On pose $Q(x)=\frac{f(x)}{g(x)}$\\
+Quelle est la condition d'existence d'une valeur numérique de Q? Simplifie Q.
+\item On définit dans $\mathbb{R}$ la fraction rationnelle $S(x)=\frac{1-4x}{x+5}$
+\begin{enumerate}
+\item Calcule $S(\sqrt{3})$ et rend rationnelle le dénominateur.
+\item Résoudre dans $\mathbb{R}$ l'équation $S(x)=1$
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\end{td}
+\end{document}

@@ -1,0 +1,100 @@
+\documentclass[12pt,a4paper]{book}
+\usepackage[minitoc]{teach}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyfoot[C]{\thepage}
+
+
+\author{YAWO Kossi Atsu}
+\newcommand{\prof}{YAWO Kossi Atsu}
+\newcommand{\matiere}{MATHEMATIQUES}
+\newcommand{\classe}{4$^{ème}$}
+\title{Mes devoirs de Mathématiques}
+\begin{document}
+\begin{td}{\matiere}{\classe}{24 mai 2019}{\prof}
+\end{td}
+
+\begin{td}{\matiere}{\classe}{24 mai 2019}{\prof}
+
+\end{td}
+
+\begin{td}{\matiere}{\classe}{24 mai 2019}{\prof}
+
+\end{td}
+
+\begin{td}{\matiere}{\classe}{24 mai 2019}{\prof}
+
+\end{td}
+
+\newpage
+\begin{devoir}{COMPOSITION DU TROISIÈME TRIMESTRE}{\matiere}{\classe}{2}{2H}{28 mai 2019}{\prof}
+\begin{exo}[6]
+\begin{enumerate}
+\item Effectue le calcul suivant: $a=(\frac{4}{7}-\frac{2}{7}\times \frac{2}{3}):\frac{5}{3}$.
+\item Calcule l'expression suivante et écris le résultat en notation scientifique.
+\item On donne le nombre rationnel: $A=\frac{23}{6}=83,833333333 \ldots$.
+\begin{enumerate}
+\item A est- il aussi un nombre décimal? Justifie ta réponse.
+\item Encadre A par deux nombres décimaux consécutifs d'ordre 2.
+\end{enumerate}
+\item Quelle est le plus grand des diviseurs communs à 108 et 180?
+\end{enumerate}
+\vspace{1cm}
+\end{exo}
+
+\begin{exo}[3]
+\begin{enumerate}
+\item Développe, réduis et ordonne:\\
+$E=(x-2)^2-(x+2)(x-1)$
+\item Factorise les expressions suivantes:\\
+$F=36-25x^2$ et $(x-2)(x+5)+5(x+5)$
+\end{enumerate}
+\vspace{1cm}
+\end{exo}
+
+\begin{exo}[7]
+L'unité de longueur est le km, trois villes A, B et C sont telles que: $AB=40$, $AC=30$ et $BC=50$.
+\begin{enumerate}
+\item Représente sur ta feuille le triangle ABC en prenant 1cm pour 10km.
+\item \begin{enumerate}
+\item Calcule $AB^2$; $AC^2$ et $BC^2$.
+\item Déduis-en la nature du triangle ABC.
+\end{enumerate}
+\item On veut installer une antenne de télévision T à égale distance des trois villes A,B et C.
+\begin{enumerate}
+\item Montre que les trois villes A, B et C appartiennent à un même cercle $\mathcal{(C)}$ dont tu préciseras le centre.
+\item Construire sur ta figure le cercle $\mathcal{(C)}$ et point T.
+\end{enumerate}
+\item La ville D est le symétrique de la ville A par rapport à T.
+\begin{enumerate}
+\item Construire sur ta figure la ville D.
+\item Montre que D appartient au cercle $\mathcal{(C)}$.
+\item Précise la nature du quadrilatère ABCD. Justifie.
+\end{enumerate}
+\end{enumerate}
+
+\vspace{1cm}
+\end{exo}
+
+\begin{exo}[4]
+\begin{enumerate}
+\item On donne trois points non alignés A, B et C. Construis:
+\begin{enumerate}
+\item le point D tel que $\overrightarrow{AB}=\overrightarrow{DC}$.
+\item le point E tel que $\overrightarrow{AC}=\overrightarrow{BE}$.
+\item le point K tel que $\overrightarrow{BC}=\overrightarrow{CK}$.
+\end{enumerate}
+\item Réduis la somme suivantes:\\
+$\overrightarrow{AB}+\overrightarrow{AC}+\overrightarrow{ED}+\overrightarrow{BF}+\overrightarrow{CE}+\overrightarrow{DA}$.
+\end{enumerate}
+\end{exo}
+\end{devoir}
+
+\end{document}

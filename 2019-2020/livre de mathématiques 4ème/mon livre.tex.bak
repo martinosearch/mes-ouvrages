@@ -1,0 +1,265 @@
+\documentclass[nocrop]{sesamanuel}
+\usepackage{sesamanuelTIKZ}
+\let\ifluatex\relax
+\usepackage{hyperref}
+
+
+%complement
+\usepackage{tikz}  %   appel  général
+\usepackage{pgf}  %   appel  général
+\usepackage{tkz-tab}  %   extention  pour  les  tableaux  de  variations
+\usetikzlibrary{arrows}  %   librairie  pour  les  flèches
+\usetikzlibrary{patterns}  %   librairie  pour  les  hachures  et  les  pointillés
+
+\themaG
+\begin{document}
+\chapter{Les distances}
+
+\begin{acquis}
+\begin{itemize}
+\item  Premier  point  à  connaître.
+\item  Autre  point  à  savoir  faire.
+\item  Dernier  point  devant  être  su.
+\end{itemize}
+\end{acquis}
+
+\cours
+\section{Distances de deux points}
+\begin{definition}
+La distance des points $A$ et $B$ est la longueur du segment [AB].
+\begin{exemple}
+\vspace{0.5cm}
+\begin{tikzpicture}[general]
+\coordinate  (A)  at  (0,0);
+\coordinate  (B)  at  (4,0);
+\draw  (A)--(B);
+\pointC{A}{A}{below  left}
+\pointC{B}{B}{below  right}
+\end{tikzpicture}
+
+
+$AB=5cm$
+\end{exemple}
+\end{definition}
+
+\section{Distances d'un point à une droite}
+\begin{definition}
+On considère une droite $(D)$ et un point A n'appartenant pas à la droite $(D)$.\\
+\begin{itemize}
+\item On appelle \emph{projection orthogonale} du point A sur la droite $(D)$, la perpendiculaire à $(D)$ passant par A.
+\item Si H est le point d'intersection de (D) et de la projection orthogonale de A sur $(D)$, alors le point H est appelé, le \emph{projeté orthogonal} du point A sur la droite $(D)$.
+\end{itemize}
+\end{definition}
+
+\begin{definition}
+La distance du point A à la droite (D) est la distance du point A et du projeté orthogonal de A sur $(D)$
+\end{definition}
+
+\section{Distance de deux droites parallèles}
+
+\section{Points équidistants de deux droites parallèles}
+
+\section{Points équidistants de deux droites sécantes}
+
+\connaissances
+
+\QCMautoevaluation{texte  introductif}
+\begin{QCM}
+
+\begin{EnonceCommunQCM}
+Pour  les  questions  \RefQCM{premier-qcm}  à \RefQCM{deuxieme-qcm},  $f$  désigne  une fonction  affine.
+\end{EnonceCommunQCM}
+
+\begin{GroupeQCM}
+
+\begin{exercice} \label{premier-qcm} La  courbe  de  $f$  est
+\begin{ChoixQCM}{3}
+\item  une  droite
+\item  une  parabole
+\item  autre
+\end{ChoixQCM}
+\end{exercice}
+
+\begin{corrige}
+\reponseQCM{a}
+\end{corrige}
+
+\begin{exercice} \label{deuxieme-qcm}
+$f(3)$
+\begin{ChoixQCM}{3}
+\item  vaut  la  moitié  de  $f(6)$
+\item  vaut  le  double  de  $f(6)$
+\item  on  ne  peut  pas savoir
+\end{ChoixQCM}
+
+\end{exercice}
+
+\begin{corrige}
+\reponseQCM{c}
+\end{corrige}
+
+\end{GroupeQCM}
+\end{QCM}
+
+
+
+\exercicesbase
+\begin{colonne*exercice}
+\begin{exercice}
+On donne un rectangle ABCD tel que AB=6cm et BC=4cm.
+\begin{enumerate}
+\item Quelle est la distance du point A à la droite (CD)?
+\item Quelle est la distance du point D à la droite (BC)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un carré EFGH de côté 5cm de centre O.
+\begin{enumerate}
+\item Quelle est la distance du point E à la droite (FG)?
+\item Mesure la distance du point G à la droite (GF)?
+\item Mesure la distance du point O à la droite (HG)?
+\end{enumerate}
+\end{exercice}
+\end{colonne*exercice}
+
+\exercicesappr
+
+
+\chapter{Le théorème de Pythagore}
+\cours
+\section{Le théorème direct}
+\section{La réciproque du théorème de Pythagore}
+
+\exercicesbase
+\begin{colonne*exercice}
+\begin{exercice}
+On donne un rectangle ABCD tel que AB=6cm et BC=4cm.
+\begin{enumerate}
+\item Quelle est la distance du point A à la droite (CD)?
+\item Quelle est la distance du point D à la droite (BC)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un carré EFGH de côté 5cm de centre O.
+\begin{enumerate}
+\item Quelle est la distance du point E à la droite (FG)?
+\item Mesure la distance du point G à la droite (GF)?
+\item Mesure la distance du point O à la droite (HG)?
+\end{enumerate}
+\end{exercice}
+\begin{exercice}
+On donne un rectangle ABCD tel que AB=6cm et BC=4cm.
+\begin{enumerate}
+\item Quelle est la distance du point A à la droite (CD)?
+\item Quelle est la distance du point D à la droite (BC)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un carré EFGH de côté 5cm de centre O.
+\begin{enumerate}
+\item Quelle est la distance du point E à la droite (FG)?
+\item Mesure la distance du point G à la droite (GF)?
+\item Mesure la distance du point O à la droite (HG)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un rectangle ABCD tel que AB=6cm et BC=4cm.
+\begin{enumerate}
+\item Quelle est la distance du point A à la droite (CD)?
+\item Quelle est la distance du point D à la droite (BC)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un carré EFGH de côté 5cm de centre O.
+\begin{enumerate}
+\item Quelle est la distance du point E à la droite (FG)?
+\item Mesure la distance du point G à la droite (GF)?
+\item Mesure la distance du point O à la droite (HG)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un rectangle ABCD tel que AB=6cm et BC=4cm.
+\begin{enumerate}
+\item Quelle est la distance du point A à la droite (CD)?
+\item Quelle est la distance du point D à la droite (BC)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un carré EFGH de côté 5cm de centre O.
+\begin{enumerate}
+\item Quelle est la distance du point E à la droite (FG)?
+\item Mesure la distance du point G à la droite (GF)?
+\item Mesure la distance du point O à la droite (HG)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un rectangle ABCD tel que AB=6cm et BC=4cm.
+\begin{enumerate}
+\item Quelle est la distance du point A à la droite (CD)?
+\item Quelle est la distance du point D à la droite (BC)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un carré EFGH de côté 5cm de centre O.
+\begin{enumerate}
+\item Quelle est la distance du point E à la droite (FG)?
+\item Mesure la distance du point G à la droite (GF)?
+\item Mesure la distance du point O à la droite (HG)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un rectangle ABCD tel que AB=6cm et BC=4cm.
+\begin{enumerate}
+\item Quelle est la distance du point A à la droite (CD)?
+\item Quelle est la distance du point D à la droite (BC)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un carré EFGH de côté 5cm de centre O.
+\begin{enumerate}
+\item Quelle est la distance du point E à la droite (FG)?
+\item Mesure la distance du point G à la droite (GF)?
+\item Mesure la distance du point O à la droite (HG)?
+\end{enumerate}
+\end{exercice}
+\end{colonne*exercice}
+
+\exercicesappr
+\begin{colonne*exercice}
+\begin{exercice}
+On donne un rectangle ABCD tel que AB=6cm et BC=4cm.
+\begin{enumerate}
+\item Quelle est la distance du point A à la droite (CD)?
+\item Quelle est la distance du point D à la droite (BC)?
+\end{enumerate}
+\end{exercice}
+
+\begin{exercice}
+On donne un carré EFGH de côté 5cm de centre O.
+\begin{enumerate}
+\item Quelle est la distance du point E à la droite (FG)?
+\item Mesure la distance du point G à la droite (GF)?
+\item Mesure la distance du point O à la droite (HG)?
+\end{enumerate}
+\end{exercice}
+\end{colonne*exercice}
+
+
+\chapter{Le théorème de la droite des milieux}
+\section{$1^{ere}$ Propriété}
+dsfsdsfg
+\section{$2^{e}$ Propriété}
+\section{$3^{e}$ Propriété}
+
+\end{document}
