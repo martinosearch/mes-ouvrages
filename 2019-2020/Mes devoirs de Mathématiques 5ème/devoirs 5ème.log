@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.5.23)  29 FEB 2020 08:45
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.5.23)  10 MAR 2020 11:21
 entering extended mode
 **devoirs*5ème.tex
 
@@ -1557,6 +1557,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 500--502
  []
 
 ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
+File: C:/texmf/tex/latex/teach/logo.png Graphic file (type png)
+ <use C:/texmf/tex/latex/teach/logo.png>
+Package pdftex.def Info: C:/texmf/tex/latex/teach/logo.png used on input line 5
+24.
+(pdftex.def)             Requested size: 69.92055pt x 39.67584pt.
+
+
+LaTeX Warning: Command \` invalid in math mode on input line 524.
+
+
+Overfull \hbox (78.67908pt too wide) in paragraph at lines 524--524
+ [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8 <D:/mes-documents/mes-ouvrages/2019-2020/Mes devoirs de Mathématiques 5ème
+/images/td_29_02_2020_img1.png (PNG copy)> <D:/mes-documents/mes-ouvrages/2019-
+2020/Mes devoirs de Mathématiques 5ème/images/td_29_02_2020_img2.png (PNG cop
+y)>] ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
+( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
+Underfull \hbox (badness 10000) in paragraph at lines 569--572
+
+ []
+
+File: images/td_29_02_2020_img1.png Graphic file (type png)
+<use images/td_29_02_2020_img1.png>
+Package pdftex.def Info: images/td_29_02_2020_img1.png used on input line 573.
+(pdftex.def)             Requested size: 152.4431pt x 73.8502pt.
+File: images/td_29_02_2020_img2.png Graphic file (type png)
+ <use images/td_29_02_2020_img2.png>
+Package pdftex.def Info: images/td_29_02_2020_img2.png used on input line 585.
+(pdftex.def)             Requested size: 164.63857pt x 71.1401pt.
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the devoirs*5ème.maf file.
@@ -1572,17 +1609,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8 <D:/mes-documents/mes-ouvrages/2019-2020/Mes devoirs de Mathématiques 5ème
-/images/td_29_02_2020_img1.png (PNG copy)> <D:/mes-documents/mes-ouvrages/2019-
-2020/Mes devoirs de Mathématiques 5ème/images/td_29_02_2020_img2.png (PNG cop
-y)>]
+[9]
 ("D:\mes-documents\mes-ouvrages\2019-2020\Mes devoirs de Mathématiques 5ème\d
 evoirs 5ème.aux") ) 
 Here is how much of TeX's memory you used:
- 10737 strings out of 494045
- 144121 string characters out of 3145963
+ 10738 strings out of 494045
+ 144136 string characters out of 3145963
  392088 words of memory out of 3000000
- 13512 multiletter control sequences out of 15000+200000
+ 13513 multiletter control sequences out of 15000+200000
  85039 words of font info for 99 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  48i,14n,46p,841b,587s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1599,9 +1633,9 @@ pe1/public/amsfonts/symbols/msam10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/a
 dobe/utopia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/uto
 pia/putri8a.pfb>
-Output written on "devoirs 5ème.pdf" (8 pages, 295766 bytes).
+Output written on "devoirs 5ème.pdf" (9 pages, 299357 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

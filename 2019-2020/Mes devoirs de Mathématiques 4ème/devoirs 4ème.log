@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.5.23)  29 FEB 2020 08:07
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.5.23)  10 MAR 2020 09:14
 entering extended mode
 **devoirs*4ème.tex
 
@@ -1554,6 +1554,47 @@ File: images/td_29_02_2020_img1.png Graphic file (type png)
 <use images/td_29_02_2020_img1.png>
 Package pdftex.def Info: images/td_29_02_2020_img1.png used on input line 393.
 (pdftex.def)             Requested size: 80.09935pt x 109.00739pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8 <D:/mes-documents/mes-ouvrages/2019-2020/Mes devoirs de Mathématiques 4ème
+/images/td_29_02_2020_img1.png (PNG copy)>]
+File: C:/texmf/tex/latex/teach/logo.png Graphic file (type png)
+
+<use C:/texmf/tex/latex/teach/logo.png>
+Package pdftex.def Info: C:/texmf/tex/latex/teach/logo.png used on input line 4
+00.
+(pdftex.def)             Requested size: 69.92055pt x 39.67584pt.
+
+
+LaTeX Warning: Command \` invalid in math mode on input line 400.
+
+
+Overfull \hbox (78.67908pt too wide) in paragraph at lines 400--400
+ [] 
+ []
+
+( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 412.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 413.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 414.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--417
+
+ []
+
+( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
+( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the devoirs*4ème.maf file.
@@ -1569,8 +1610,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8 <D:/mes-documents/mes-ouvrages/2019-2020/Mes devoirs de Mathématiques 4ème
-/images/td_29_02_2020_img1.png (PNG copy)>]
+[9]
 ("D:\mes-documents\mes-ouvrages\2019-2020\Mes devoirs de Mathématiques 4ème\d
 evoirs 4ème.aux") ) 
 Here is how much of TeX's memory you used:
@@ -1591,9 +1631,9 @@ m Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x8
 /type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/a
 dobe/utopia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/uto
 pia/putri8a.pfb>
-Output written on "devoirs 4ème.pdf" (8 pages, 237736 bytes).
+Output written on "devoirs 4ème.pdf" (9 pages, 241216 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

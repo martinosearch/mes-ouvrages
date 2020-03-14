@@ -456,4 +456,73 @@ Observe cette figure composée de deux segments [AB] et [CD] sécants et indique
 \end{multicols}
 \end{exo}
 \end{td}
+
+\newpage
+
+\begin{devoir}{COMPOSITION DU TROISIÈME TRIMESTRE}{\matiere}{\classe}{1}{1H 30}{11 mars 2020}{\prof}
+\begin{exo}
+Voici les tarifs pour visiter un parc
+animalier.
+
+\begin{enumerate}
+\setlength{\columnseprule}{1pt}
+\begin{multicols}{2}
+\item Quel prix paiera une famille composée de deux adultes et de deux enfants âgés respectivement de 3 et 8 ans ?
+\item Un groupe de 52 adultes souhaite visiter ce parc. Parmi ces personnes, trois sont handicapées et 25 ont plus de 60 ans. Ce groupe dispose de 50000 F pour la visite. Cette somme suffira-t-elle ?
+\item Un groupe classe de 28 élèves de $6^e$ visite le parc animalier. Trois professeurs accompagnent les élèves. Un adulte par groupe peut entrer gratuitement. La visite leur revient à 16500 F. Quel est le prix de la visite pour chaque membre du groupe. ? \\
+\begin{center}
+\includegraphics[scale=0.6]{images/tarif_parc1.png}
+\end{center}
+
+
+\end{multicols}
+
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}
+\begin{enumerate}
+\item Recopie et complète par 10 ; 100 ; 1 000...
+\begin{multicols}{3}
+\begin{enumerate}
+\item $8,79 \times \ldots = 87,9$
+\item $0,367 \times \ldots = 3,67$
+\item $0,028 \times \ldots = 0,28$
+\item $0,17 \div \ldots= 0,017$
+\item $23 \div \ldots = 0,23$
+\item $480 \div \ldots = 4,8$
+\end{enumerate}
+\end{multicols}
+\item Développe et calcule:\\
+$G=2,5 \times (10+2)$ \qquad et \qquad $H=6 \times (20-3)$
+\item Factorise et calcule:\\
+$I=0,1 \times 5 + 0,9 \times 5$ \qquad et \qquad $J= 3,5 \times 15 - 3,5 \times 5$
+\item Traduis chacun des calculs suivants par un schéma de calcul:\\
+$K=8-7,5\times 3$ \qquad et \qquad $L=8 \times 5 - (7,5 + 3)$
+\item Effectue les calculs suivants:\\
+$M=\frac{3}{5}+\frac{6}{5}$ \qquad ;\qquad $N=\frac{7}{13}-\frac{5}{13}$ \qquad et \qquad $O=\frac{7}{5}+\frac{4}{15}$ 
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}
+\setlength{\columnseprule}{1pt}
+\begin{multicols}{2}
+Observe cette figure composée de deux segments [AB] et [CD] sécants et indique pour chaque affirmation si elle est vraie ou fausse.
+\begin{enumerate}
+\item Les points C, D et M sont alignés.
+\item M est le point d'intersection des segments [AB] et [CD].
+\item M est le milieu du segment [AC].
+\item M est un point du segment [CD].
+\item A appartient au segment [MB].
+\item M est le milieu du segment [CD].
+\end{enumerate}
+\includegraphics[scale=0.9]{images/td_29_02_20_img2.png}
+\end{multicols}
+\end{exo}
+\end{devoir}
+
 \end{document}

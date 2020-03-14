@@ -327,19 +327,19 @@ Dans le plan muni d'un repère orthonormé (O,I,J) on donne les points: $A(-3;0)
 \begin{exo}
 Dans le plan muni d'un repère orthonormé (O, I, J), on considère les points A, B et C tel que: $\overrightarrow{OA}=7\overrightarrow{OI}+\overrightarrow{OJ}$ ; $\overrightarrow{OB}=8\overrightarrow{OI}+4\overrightarrow{OJ}$ et $\overrightarrow{CO}=\overrightarrow{OI}-7\overrightarrow{OJ}$.
 \begin{enumerate}
-\item Place les points A, B et C dans le repère. \emph{(0,5pt)}
+\item Place les points A, B et C dans le repère.
 \item \begin{enumerate}
-\item Montre que les vecteurs $\overrightarrow{AB}$ et $\overrightarrow{BC}$ sont orthogonaux. \emph{(1pt)}.
-\item Donne en justifie la nature du triangle ABC. \emph{(0,5pt)}
+\item Montre que les vecteurs $\overrightarrow{AB}$ et $\overrightarrow{BC}$ sont orthogonaux.
+\item Donne en justifie la nature du triangle ABC.
 \end{enumerate}
 \item Soient le point M milieu du segment [AC] et le point D symétrique de B par rapport à M.
 \begin{enumerate}
-\item Détermine les coordonnées de M et de D. \emph{(1pt)}
-\item Précise la nature du quadrilatère ABCD. Justifie. \emph{(1pt)}
+\item Détermine les coordonnées de M et de D.
+\item Précise la nature du quadrilatère ABCD. Justifie.
 \end{enumerate} 
 \item \begin{enumerate}
-\item Construis le cercle $\mathcal{C}$ circonscrit au quadrilatère ABCD. \emph{(0,5pt)}
-\item Précise son centre, calcule son rayon et montre qu'il passe par le point O. \emph{(1,5pt)}
+\item Construis le cercle $\mathcal{(C)}$ circonscrit au quadrilatère ABCD.
+\item Précise son centre, calcule son rayon et montre qu'il passe par le point O.
 \end{enumerate}
 \end{enumerate}
 \end{exo}
@@ -382,4 +382,144 @@ Quelle est la condition d'existence d'une valeur numérique de Q? Simplifie Q.
 \end{exo}
 
 \end{td}
+
+\newpage
+
+\begin{devoir}{COMPOSITION DU DEUXIÈME TRIMESTRE}{\matiere}{\classe}{2}{2H}{11 mars 2020}{\prof}
+
+\begin{exo}[4]
+\begin{enumerate}
+\item Calcule les nombres: $M=\frac{2}{7}-\frac{3}{7}\times(\frac{2}{3})^2$ \quad et \quad $N=(\frac{2}{3}-3)\div \frac{1}{9}+7$
+\item On considère les nombres : $A=\sqrt{81}-\sqrt{108}+\sqrt{48}-\sqrt{25}$ \quad ; \quad $B=(1-\sqrt{3})^2$ \quad et \quad $C=\sqrt{A}$.
+\begin{enumerate}
+\item Calcule B et montre que: $A=4-2\sqrt{3}$.
+\item Déduis-en une écriture simplifiée de C.
+\end{enumerate} 
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[5]
+\begin{enumerate}
+\item On donne les expressions littérales suivantes: $E=2x(3x-4)-(4-3x)^2$ et $F=(9x^2-4)-(2x-3)(3x-2)$
+\begin{enumerate}
+\item Développe, réduis et ordonne E suivant les puissances croissantes de x.
+\item Factorise E et F.
+\item Résous dans R l'équation $(3x-2)(x+5)=0$.
+\end{enumerate}
+\item Soit Q la fraction rationnelle telle que $Q=\frac{3x(x-3)-2(x-3)}{(3x-2)(x+5)}$
+\begin{enumerate}
+\item Détermine la condition d'existence d'une valeur numérique de Q.
+\item Simplifie Q dans cette condition.
+\item Calcule la valeur exacte de Q pour $x=\sqrt{2}$.
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[4]
+L'unité de longueur est le centimètre. $ABC$ est un triangle rectangle en B tel que $AB=6$ et $AC=8$. M et N sont deux points tels que $\overrightarrow{AM}=\frac{1}{2}\overrightarrow{AB}$ et $\overrightarrow{AN}=\frac{1}{2}\overrightarrow{AC}$.
+\begin{enumerate}
+\item Trouve les distances AM et AN puis fais la figure.
+\item Justifie que les droites (BC) et (MN) sont parallèles.
+\item Calcule $BC$, $cos\widehat{BAC}$ et $tan\widehat{BAC}$.
+\item A l'aide de la table trigonométrique, trouve l'encadrement d'ordre zéro de la mesure de l'angle $\widehat{BAC}$.
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[7]
+Dans le plan muni d'un repère orthonormé (O, I, J), on considère les points A, B et C tel que:\\
+$\overrightarrow{OA}=7\overrightarrow{OI}+\overrightarrow{OJ}$ \quad ; \quad $\overrightarrow{OB}=8\overrightarrow{OI}+4\overrightarrow{OJ}$ \quad et \quad $\overrightarrow{CO}=\overrightarrow{OI}-7\overrightarrow{OJ}$.
+\begin{enumerate}
+\item Place les points A, B et C dans le repère.
+\item \begin{enumerate}
+\item Montre que les vecteurs $\overrightarrow{AB}$ et $\overrightarrow{BC}$ sont orthogonaux.
+\item Donne en justifie la nature du triangle ABC.
+\end{enumerate}
+\item Soient le point M milieu du segment [AC] et le point D symétrique de B par rapport à M.
+\begin{enumerate}
+\item Détermine les coordonnées de M et de D.
+\item Précise la nature du quadrilatère ABCD. Justifie.
+\end{enumerate} 
+\item \begin{enumerate}
+\item Construis le cercle $\mathcal{(C)}$ circonscrit au quadrilatère ABCD.
+\item Précise son centre, calcule son rayon et montre qu'il passe par le point O.
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\end{devoir}
+
+\begin{td}{\matiere}{\classe}{08 mars 2020}{\prof}
+
+\begin{exo}[4]
+\begin{enumerate}
+\item Calcule les nombres: $M=\frac{2}{7}-\frac{3}{7}\times(\frac{2}{3})^2$ \quad et \quad $N=(\frac{2}{3}-3)\div \frac{1}{9}+7$
+\item On considère les nombres : $A=\sqrt{81}-\sqrt{108}+\sqrt{48}-\sqrt{25}$ \quad ; \quad $B=(1-\sqrt{3})^2$ \quad et \quad $C=\sqrt{A}$.
+\begin{enumerate}
+\item Calcule B et montre que: $A=4-2\sqrt{3}$.
+\item Déduis-en une écriture simplifiée de C.
+\end{enumerate} 
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[5]
+\begin{enumerate}
+\item On donne les expressions littérales suivantes: $E=2x(3x-4)-(4-3x)^2$ et $F=(9x^2-4)-(2x-3)(3x-2)$
+\begin{enumerate}
+\item Développe, réduis et ordonne E suivant les puissances croissantes de x.
+\item Factorise E et F.
+\item Résous dans R l'équation $(3x-2)(x+5)=0$.
+\end{enumerate}
+\item Soit Q la fraction rationnelle telle que $Q=\frac{3x(x-3)-2(x-3)}{(3x-2)(x+5)}$
+\begin{enumerate}
+\item Détermine la condition d'existence d'une valeur numérique de Q.
+\item Simplifie Q dans cette condition.
+\item Calcule la valeur exacte de Q pour $x=\sqrt{2}$.
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[4]
+L'unité de longueur est le centimètre. $ABC$ est un triangle rectangle en B tel que $AB=6$ et $AC=8$. M et N sont deux points tels que $\overrightarrow{AM}=\frac{1}{2}\overrightarrow{AB}$ et $\overrightarrow{AN}=\frac{1}{2}\overrightarrow{AC}$.
+\begin{enumerate}
+\item Trouve les distances AM et AN puis fais la figure.
+\item Justifie que les droites (BC) et (MN) sont parallèles.
+\item Calcule $BC$, $cos\widehat{BAC}$ et $tan\widehat{BAC}$.
+\item A l'aide de la table trigonométrique, trouve l'encadrement d'ordre zéro de la mesure de l'angle $\widehat{BAC}$.
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[7]
+Dans le plan muni d'un repère orthonormé (O, I, J), on considère les points A, B et C tel que:\\
+$\overrightarrow{OA}=7\overrightarrow{OI}+\overrightarrow{OJ}$ \quad ; \quad $\overrightarrow{OB}=8\overrightarrow{OI}+4\overrightarrow{OJ}$ \quad et \quad $\overrightarrow{CO}=\overrightarrow{OI}-7\overrightarrow{OJ}$.
+\begin{enumerate}
+\item Place les points A, B et C dans le repère.
+\item \begin{enumerate}
+\item Montre que les vecteurs $\overrightarrow{AB}$ et $\overrightarrow{BC}$ sont orthogonaux.
+\item Donne en justifie la nature du triangle ABC.
+\end{enumerate}
+\item Soient le point M milieu du segment [AC] et le point D symétrique de B par rapport à M.
+\begin{enumerate}
+\item Détermine les coordonnées de M et de D.
+\item Précise la nature du quadrilatère ABCD. Justifie.
+\end{enumerate} 
+\item \begin{enumerate}
+\item Construis le cercle $\mathcal{(C)}$ circonscrit au quadrilatère ABCD.
+\item Précise son centre, calcule son rayon et montre qu'il passe par le point O.
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+\end{td}
+
 \end{document}

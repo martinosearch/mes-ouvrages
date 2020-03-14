@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.5.23)  29 FEB 2020 06:35
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.5.23)  10 MAR 2020 11:25
 entering extended mode
 **devoirs*6ème.tex
 
@@ -1570,6 +1570,51 @@ File: images/td_29_02_20_img2.png Graphic file (type png)
 <use images/td_29_02_20_img2.png>
 Package pdftex.def Info: images/td_29_02_20_img2.png used on input line 455.
 (pdftex.def)             Requested size: 158.54083pt x 84.6906pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9 <D:/mes-documents/mes-ouvrages/2019-2020/Mes devoirs de Mathématiques 6ème
+/images/tarif_parc1.png (PNG copy)> <D:/mes-documents/mes-ouvrages/2019-2020/Me
+s devoirs de Mathématiques 6ème/images/td_29_02_20_img2.png (PNG copy)>]
+File: C:/texmf/tex/latex/teach/logo.png Graphic file (type png)
+
+<use C:/texmf/tex/latex/teach/logo.png>
+Package pdftex.def Info: C:/texmf/tex/latex/teach/logo.png used on input line 4
+62.
+(pdftex.def)             Requested size: 69.92055pt x 39.67584pt.
+
+
+LaTeX Warning: Command \` invalid in math mode on input line 462.
+
+
+Overfull \hbox (78.67908pt too wide) in paragraph at lines 462--462
+ [] 
+ []
+
+( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
+Underfull \hbox (badness 5878) in paragraph at lines 472--473
+\T1/futs/m/n/12 ani-ma-lier. Trois pro-fes-seurs ac-com-pagnent les
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
+
+ []
+
+File: images/tarif_parc1.png Graphic file (type png)
+<use images/tarif_parc1.png>
+Package pdftex.def Info: images/tarif_parc1.png used on input line 474.
+(pdftex.def)             Requested size: 235.78268pt x 106.14737pt.
+ ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL
+( FP-UPN ( FP-ROUND ) ) )
+File: images/td_29_02_20_img2.png Graphic file (type png)
+ <use images/td_29_02_20_img2.png>
+Package pdftex.def Info: images/td_29_02_20_img2.png used on input line 523.
+(pdftex.def)             Requested size: 158.54083pt x 84.6906pt.
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the devoirs*6ème.maf file.
@@ -1585,9 +1630,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9 <D:/mes-documents/mes-ouvrages/2019-2020/Mes devoirs de Mathématiques 6ème
-/images/tarif_parc1.png (PNG copy)> <D:/mes-documents/mes-ouvrages/2019-2020/Me
-s devoirs de Mathématiques 6ème/images/td_29_02_20_img2.png (PNG copy)>]
+[10]
 ("D:\mes-documents\mes-ouvrages\2019-2020\Mes devoirs de Mathématiques 6ème\d
 evoirs 6ème.aux") ) 
 Here is how much of TeX's memory you used:
@@ -1609,9 +1652,9 @@ type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
 /adobe/utopia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/u
 topia/putri8a.pfb>
-Output written on "devoirs 6ème.pdf" (9 pages, 262002 bytes).
+Output written on "devoirs 6ème.pdf" (10 pages, 266103 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
+ 81 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

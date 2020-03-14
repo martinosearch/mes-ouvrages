@@ -461,15 +461,17 @@ Combien d'enfants, au maximum, étaient présents?
 \end{exo}
 
 \begin{exo}
-Une commerçantes reçoit 700 sucettes acidulées: 390 sont au goût pomme; les sucettes restantes son au goût orange. Elle souhaite réaliser des sachets identiques avec un assortiment des deux types de sucettes, de façon à ce que tout son stock soit utilisé.\\
+Une commerçante reçoit 700 sucettes acidulées: 390 sont au goût pomme; les sucettes restantes son au goût orange. Elle souhaite réaliser des sachets identiques avec un assortiment des deux types de sucettes, de façon à ce que tout son stock soit utilisé.\\
 Indique toutes les possibilités. Préciser, pour chaque cas, la composition des sachets.
 \end{exo}
 
 \begin{exo}
+\setlength{\columnseprule}{1pt}
+\begin{multicols}{2}
 Indique si les phrases suivantes sont vraies ou fausses et justifie.
 \begin{enumerate}
 \item Si un nombre est premier alors ne peut être pair.
-\item Tous les nombres premiers plus grands que 2 ne sont pas premiers.
+\item Tous les nombres pairs plus grands que 2 ne sont pas premiers.
 \item Tous les nombres premiers sont impairs.
 \item Tous les nombres impairs sont premiers.
 \item La différences entre deux nombres premiers successifs est deux.
@@ -477,6 +479,8 @@ Indique si les phrases suivantes sont vraies ou fausses et justifie.
 \item Si un nombre est compris entre $5 \times 11$ et $5 \times 12$, alors le quotient de la division euclidienne de ce nombre par 5 est égal à 11.
 \item Si le quotient de la division euclidienne d'un nombre par 9 est égal à 60, alors ce nombre est égal à $60 \times 9$.
 \end{enumerate}
+\end{multicols}
+
 \end{exo}
 
 \begin{exo}
@@ -516,4 +520,74 @@ Sur la figure ci-dessous, les points O, A et L sont alignés.\\
 \end{exo}
 
 \end{td}
+
+\begin{devoir}{COMPOSITION DU DEUXIÈME TRIMESTRE}{\matiere}{\classe}{1}{1H 30}{11 mars 2020}{\prof}
+
+\begin{exo}
+Une commerçante reçoit 700 sucettes acidulées: 390 sont au goût pomme; les sucettes restantes son au goût orange. Elle souhaite réaliser des sachets identiques avec un assortiment des deux types de sucettes, de façon à ce que tout son stock soit utilisé.\\
+Indique toutes les possibilités. Préciser, pour chaque cas, la composition des sachets.
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[10]
+\setlength{\columnseprule}{1pt}
+\begin{enumerate}
+\item Indique si les phrases suivantes sont vraies ou fausses et justifie.
+\begin{multicols}{2}
+\begin{enumerate}
+\item Si un nombre est premier alors ne peut être pair.
+\item Tous les nombres pairs plus grands que 2 ne sont pas premiers.
+\item Tous les nombres premiers sont impairs.
+\item Tous les nombres impairs sont premiers.
+\item 1 est un nombre premier.
+\item 8 est un nombre premier.
+\end{enumerate}
+\end{multicols}
+\item Cite les nombres premiers compris entre 0 et 20.
+\item \begin{enumerate}
+\item Décompose chacun des nombres suivants en produit de facteurs premiers: \\
+ 20 \qquad ;  \qquad 12 \qquad ;  \qquad 18 \qquad et  \qquad 36. 
+\item Utilise les décompositions précédentes pour calculer:\\
+$PPCM(18 ; 20)$ et $PPCM(12 ; 20)$
+\item Rends irréductible chacune des fractions suivantes:\\
+$\frac{18}{36}$ \qquad ; \qquad $\frac{20}{18}$
+\item Déduis-en $PGCD(18;36)$ \qquad et \qquad $PGCD(18;20)$
+\end{enumerate}
+\item Effectue les calculs suivants:\\
+$A=\frac{7}{5}-\frac{3}{5}$ \qquad ; \qquad $B=\frac{4}{13}+\frac{3}{13}$ \qquad ; \qquad $C=\frac{7}{10}+\frac{11}{15}$ \qquad et \qquad $D=\frac{7}{20}-\frac{3}{5}+\frac{7}{10}$
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}
+\setlength{\columnseprule}{1pt}
+
+\begin{enumerate}
+\item \begin{multicols}{2}
+Sur la figure ci-contre, les points B, A et C sont alignés.\\
+Calcule, en détaillant, la mesure des angles :
+$\widehat{uAv}$ \qquad ;\qquad $\widehat{BAv}$ et $\widehat{uAC}$\\
+\begin{center}
+\includegraphics[scale=0.9]{images/td_29_02_2020_img1.png}
+\end{center}
+\end{multicols}
+
+\item \begin{multicols}{2}
+Sur la figure ci-dessous, les points O, A et L sont alignés.
+\begin{enumerate}
+\item Quelle est la mesure et la nature de l'angle  $\widehat{OGA}$ ? Justifie.
+\item Quelle est la mesure et la nature de l'angle  $\widehat{GAL}$ ? Justifie.
+\end{enumerate}
+\begin{center}
+\includegraphics[scale=0.9]{images/td_29_02_2020_img2.png}\\
+
+\end{center}
+\end{multicols}
+\end{enumerate}
+
+\end{exo}
+
+\end{devoir}
 \end{document}
