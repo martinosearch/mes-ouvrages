@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2020.2.21)  14 MAR 2020 02:25
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2020.4.30)  30 APR 2020 11:04
 entering extended mode
 **mon*livre.tex
 
@@ -1831,23 +1831,17 @@ LaTeX Font Warning: Font shape `EU1/ppl/bx/n' undefined
 
 File: images/fonction_img1.png Graphic file (type QTm)
 <use  "images/fonction_img1.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
-[][] \EU1/ppl/bx/n/9.5 Le graphique ci-dessous représente une
- []
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
-\EU1/ppl/bx/n/9.5 fonction k pour x compris entre 0 et 16.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
-
- []
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
 
 File: images/fonction_img2.png Graphic file (type QTm)
 <use  "images/fonction_img2.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 162--173
+Underfull \hbox (badness 10000) in paragraph at lines 164--175
 [][] \EU1/ppl/bx/n/9.5 Ce graphique représente une fonction g.
  []
 
@@ -1857,7 +1851,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--173
 Requested font "[lmroman8-regular]:mapping=tex-text" at 7.5pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm/lmroman8-regular
 .otf
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 187.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 189.
 Requested font "pplr7t" at 7.5pt
  -> pplr7t
 Requested font "pplr7t" at 5.69995pt
@@ -1891,45 +1885,45 @@ Requested font "zplmr7t" at 4.50005pt
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 187.
+(Font)              size <7> substituted on input line 189.
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.50005> not available
-(Font)              size <5> substituted on input line 187.
+(Font)              size <5> substituted on input line 189.
 
 Requested font "rsfs5" at 5.0pt
  -> rsfs5
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.81505pt on input line 187.
+(Font)              scaled to size 7.81505pt on input line 189.
 Requested font "msam10" at 7.81505pt
  -> msam10
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.93938pt on input line 187.
+(Font)              scaled to size 5.93938pt on input line 189.
 Requested font "msam10" at 5.93938pt
  -> msam10
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 4.68907pt on input line 187.
+(Font)              scaled to size 4.68907pt on input line 189.
 Requested font "msam10" at 4.68907pt
  -> msam10
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.81505pt on input line 187.
+(Font)              scaled to size 7.81505pt on input line 189.
 Requested font "msbm10" at 7.81505pt
  -> msbm10
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.93938pt on input line 187.
+(Font)              scaled to size 5.93938pt on input line 189.
 Requested font "msbm10" at 5.93938pt
  -> msbm10
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 4.68907pt on input line 187.
+(Font)              scaled to size 4.68907pt on input line 189.
 Requested font "msbm10" at 4.68907pt
  -> msbm10
 
 LaTeX Font Warning: Font shape `U/esvect/m/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 187.
+(Font)              size <7> substituted on input line 189.
 
 
 LaTeX Font Warning: Font shape `U/esvect/m/n' in size <4.50005> not available
-(Font)              size <5> substituted on input line 187.
+(Font)              size <5> substituted on input line 189.
 
 Requested font "vect5" at 5.0pt
  -> vect5
@@ -1937,12 +1931,12 @@ Requested font "[lmroman17-regular]:mapping=tex-text" at 20.0pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm/lmroman17-regula
 r.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--205
+Underfull \hbox (badness 10000) in paragraph at lines 202--207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--216
+Underfull \hbox (badness 10000) in paragraph at lines 213--218
 
  []
 
@@ -1953,17 +1947,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--216
 Chapitre 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 223.
+(hyperref)                removing `math shift' on input line 225.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 223.
+(hyperref)                removing `\times' on input line 225.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 223.
+(hyperref)                removing `math shift' on input line 225.
 
-LaTeX Font Info:    Calculating math sizes for size <40> on input line 223.
+LaTeX Font Info:    Calculating math sizes for size <40> on input line 225.
 Requested font "pplr7t" at 40.0pt
  -> pplr7t
 Requested font "pplr7t" at 30.39978pt
@@ -1996,57 +1990,57 @@ Requested font "zplmr7t" at 24.00024pt
  -> zplmr7t
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <40> not available
-(Font)              size <24.88> substituted on input line 223.
+(Font)              size <24.88> substituted on input line 225.
 
 Requested font "rsfs10" at 24.88pt
  -> rsfs10
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <30.39978> not available
-(Font)              size <24.88> substituted on input line 223.
+(Font)              size <24.88> substituted on input line 225.
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <24.00024> not available
-(Font)              size <24.88> substituted on input line 223.
+(Font)              size <24.88> substituted on input line 225.
 
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 41.6803pt on input line 223.
+(Font)              scaled to size 41.6803pt on input line 225.
 Requested font "msam10" at 41.6803pt
  -> msam10
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 31.67679pt on input line 223.
+(Font)              scaled to size 31.67679pt on input line 225.
 Requested font "msam10" at 31.67679pt
  -> msam10
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 25.00842pt on input line 223.
+(Font)              scaled to size 25.00842pt on input line 225.
 Requested font "msam10" at 25.00842pt
  -> msam10
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 41.6803pt on input line 223.
+(Font)              scaled to size 41.6803pt on input line 225.
 Requested font "msbm10" at 41.6803pt
  -> msbm10
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 31.67679pt on input line 223.
+(Font)              scaled to size 31.67679pt on input line 225.
 Requested font "msbm10" at 31.67679pt
  -> msbm10
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 25.00842pt on input line 223.
+(Font)              scaled to size 25.00842pt on input line 225.
 Requested font "msbm10" at 25.00842pt
  -> msbm10
 
 LaTeX Font Warning: Font shape `U/esvect/m/n' in size <40> not available
-(Font)              size <24.88> substituted on input line 223.
+(Font)              size <24.88> substituted on input line 225.
 
 Requested font "vect10" at 24.88pt
  -> vect10
 
 LaTeX Font Warning: Font shape `U/esvect/m/n' in size <30.39978> not available
-(Font)              size <24.88> substituted on input line 223.
+(Font)              size <24.88> substituted on input line 225.
 
 
 LaTeX Font Warning: Font shape `U/esvect/m/n' in size <24.00024> not available
-(Font)              size <24.88> substituted on input line 223.
+(Font)              size <24.88> substituted on input line 225.
 
-LaTeX Font Info:    Try loading font information for U+fplmbb on input line 223
+LaTeX Font Info:    Try loading font information for U+fplmbb on input line 225
 .
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ufplmbb.fd"
 File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
@@ -2058,12 +2052,12 @@ Requested font "fplmbb" at 30.39978pt
 Requested font "fplmbb" at 24.00024pt
  -> fplmbb
 
-Underfull \hbox (badness 6927) in paragraph at lines 223--223
+Underfull \hbox (badness 6927) in paragraph at lines 225--225
 []\EU1/phv/bx/n/40 Les équations dans
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--224
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
@@ -2082,18 +2076,18 @@ Requested font "fplmbb" at 5.70006pt
 Chapitre 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 225.
+(hyperref)                removing `math shift' on input line 227.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\times' on input line 225.
+(hyperref)                removing `\times' on input line 227.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 225.
+(hyperref)                removing `math shift' on input line 227.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--226
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
 
  []
 
@@ -2102,18 +2096,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--226
 ]
 Chapitre 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 231.
 [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 231.
 
 ("D:\mes-documents\mes-ouvrages\2019-2020\livre de mathématiques 3ème\mon liv
 re.aux")
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 229.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 229.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 231.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 231.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2126,7 +2120,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  36240 strings out of 429156
  668891 string characters out of 3167929
- 885635 words of memory out of 3000000
+ 884706 words of memory out of 3000000
  38900 multiletter control sequences out of 15000+200000
  27091 words of font info for 111 fonts, out of 3000000 for 9000
  786 hyphenation exceptions out of 8191

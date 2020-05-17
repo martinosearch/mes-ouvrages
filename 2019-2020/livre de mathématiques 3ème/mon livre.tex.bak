@@ -11,12 +11,15 @@
 \usetikzlibrary{arrows}  %   librairie  pour  les  flèches
 \usetikzlibrary{patterns}  %   librairie  pour  les  hachures  et  les  pointillés
 
+\renewcommand{\AlgoFont}{\fontsize{24}{24}\sffamily\bfseries}	
+\renewcommand{\TiceFont}{\fontsize{24}{24}\sffamily\bfseries}
+
 %theme perso
 \NewThema{A}{a}{algèbre}{Algèbre}{ALGÈBRE}{PartieFonction}{A4}
 
 \themaA
 \begin{document}
-\chapter{Les fonctions numériques}
+\chapter{Les fonctions}
 \cours
 \section{Notion de fonction}
 \begin{definition}
@@ -147,9 +150,7 @@ $f(x)$ & 7 & 2 & -1 & -2 & -1 & 2 & 7 \\
 
 \begin{exercice}
 Le graphique ci-dessous représente une fonction k pour x compris entre 0 et 16.
-\begin{center}
-\includegraphics[scale=0.7]{images/fonction_img1.png}
-\end{center}
+\includegraphics[scale=0.7]{images/fonction_img1.png}\\
 \begin{enumerate}
 \item L'image de 5 par la fonction k est \ldots
 \item L'image de 8 par la fonction k est \ldots
@@ -162,7 +163,7 @@ Le graphique ci-dessous représente une fonction k pour x compris entre 0 et 16.
 
 \begin{exercice}
 Ce graphique représente une fonction g.
-\includegraphics[scale=0.8]{images/fonction_img2.png} b\\
+\includegraphics[scale=0.8]{images/fonction_img2.png} \\
 Reproduis puis complète le tableau de valeurs suivants:\\
 \begin{tabular}{|c|c|c|c|c|}
 \hline 

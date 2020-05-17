@@ -1,0 +1,15 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Sens de variation d'une application affine}{2}
+\contentsline {chapter}{\numberline {2}Parler statistique}{3}
+\contentsline {section}{\numberline {I.}Population-individu}{3}
+\contentsline {section}{\numberline {II.}Caract\IeC {\`e}re-modalit\IeC {\'e}}{3}
+\contentsline {section}{\numberline {III.}Nature d'un caract\IeC {\`e}re}{4}
+\contentsline {subsection}{\numberline {III. 1.}Caract\IeC {\`e}re qualitatif}{4}
+\contentsline {subsection}{\numberline {III. 2.}Caract\IeC {\`e}re quantitatif}{4}
+\contentsline {chapter}{\numberline {3}\IeC {\'E}tude d'un caract\IeC {\`e}re qualitatif}{6}
+\contentsline {section}{\numberline {I.}La fr\IeC {\'e}quence d'une modalit\IeC {\'e}}{6}
+\contentsline {section}{\numberline {II.}Le mode d'une s\IeC {\'e}rie statistique}{6}
+\contentsline {section}{\numberline {III.}Les cumules}{6}
+\contentsline {section}{\numberline {IV.}Repr\IeC {\'e}senter une s\IeC {\'e}rie statistique par un diagramme}{6}
+\contentsline {chapter}{\numberline {4}\IeC {\'E}tude d'un caract\IeC {\`e}re quantitatif}{7}
+\contentsline {chapter}{\numberline {5}Les pyramides et les c\IeC {\^o}nes}{8}

@@ -523,7 +523,7 @@ Sur la figure ci-dessous, les points O, A et L sont alignés.\\
 
 \begin{devoir}{COMPOSITION DU DEUXIÈME TRIMESTRE}{\matiere}{\classe}{1}{1H 30}{11 mars 2020}{\prof}
 
-\begin{exo}
+\begin{exo}[5]
 Une commerçante reçoit 700 sucettes acidulées: 390 sont au goût pomme; les sucettes restantes son au goût orange. Elle souhaite réaliser des sachets identiques avec un assortiment des deux types de sucettes, de façon à ce que tout son stock soit utilisé.\\
 Indique toutes les possibilités. Préciser, pour chaque cas, la composition des sachets.
 \end{exo}
@@ -561,7 +561,7 @@ $A=\frac{7}{5}-\frac{3}{5}$ \qquad ; \qquad $B=\frac{4}{13}+\frac{3}{13}$ \qquad
 
 \vspace{0.5cm}
 
-\begin{exo}
+\begin{exo}[5]
 \setlength{\columnseprule}{1pt}
 
 \begin{enumerate}
@@ -580,9 +580,9 @@ Sur la figure ci-dessous, les points O, A et L sont alignés.
 \item Quelle est la mesure et la nature de l'angle  $\widehat{OGA}$ ? Justifie.
 \item Quelle est la mesure et la nature de l'angle  $\widehat{GAL}$ ? Justifie.
 \end{enumerate}
+
 \begin{center}
 \includegraphics[scale=0.9]{images/td_29_02_2020_img2.png}\\
-
 \end{center}
 \end{multicols}
 \end{enumerate}

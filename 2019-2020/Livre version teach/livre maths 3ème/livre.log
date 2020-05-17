@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.4.30)  30 APR 2020 12:05
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.4.30)  17 MAY 2020 00:25
 entering extended mode
-**devoir-3ème.tex
+**livre.tex
 
-("D:\mes-documents\mes-ouvrages\2019-2020\Mes devoirs de Mathématiques 3ème\d
-evoir-3ème.tex"
+("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
+\livre.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -15,10 +15,10 @@ an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese,
 romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
 sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
 senglishmax, welsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
-Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk12.clo"
-File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -1127,8 +1127,8 @@ Package minitoc Info: I0003
 Package minitoc Info: I0002
 (minitoc)             Autoconfiguration of extensions.
 
-("D:\mes-documents\mes-ouvrages\2019-2020\Mes devoirs de Mathématiques 3ème\d
-evoir-3ème.mtc0")
+("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
+\livre.mtc0")
 Package minitoc Info: I0012
 (minitoc)             Long extensions (Unix-like) will be used.
 Package minitoc Info: I0031
@@ -1142,11 +1142,9 @@ Package minitoc Info: I0031
 Package minitoc Info: I0010
 (minitoc)             The english language is selected.
 (minitoc)              on input line 4910.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\minitoc\english.mld"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\minitoc\english.mld"
 File: english.mld 2006/01/13
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\minitoc\english.mld"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\minitoc\english.mld"
 File: english.mld 2006/01/13
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\block.tss"
@@ -1158,21 +1156,19 @@ File: block.tss 2011/08/28
 \c@count@lemme=\count182
 \c@count@cor=\count183
 \c@count@defn=\count184
-\teach@defn@box@height=\skip96
-\teach@defn@box@depth=\skip97
-\teach@defn@title@width=\skip98
 \c@indic@breakdemo=\count185
 \c@count@prop=\count186
-\c@count@exemple=\count187
-\arrayvertrulewidth=\skip99
-\arrayhspace=\skip100
-\c@count@savf=\count188
-\c@count@exo=\count189
-\c@countexo=\count190
-\c@count@corrige=\count191
-\teach@box@width=\skip101
-\c@count@competence=\count192
-\c@count@boucle=\count193
+\c@count@act=\count187
+\c@count@exemple=\count188
+\arrayvertrulewidth=\skip96
+\arrayhspace=\skip97
+\c@count@savf=\count189
+\c@count@exo=\count190
+\c@countexo=\count191
+\c@count@corrige=\count192
+\teach@box@width=\skip98
+\c@count@competence=\count193
+\c@count@boucle=\count194
 \tabtok=\toks35
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
@@ -1182,73 +1178,71 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-("D:\mes-documents\mes-ouvrages\2019-2020\Mes devoirs de Mathématiques 3ème\d
-evoir-3ème.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 19.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 19.
+("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
+\livre.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 20.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 20.
 
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\fmlfutm.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\fmlfutm.fd"
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 19.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 19.
-
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 20.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 20.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\fmsfutm.fd"
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 19.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 19.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 20.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 20.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\fmxfutm.fd"
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 19.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Try loading font information for T1+futs on input line 19.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 20.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\t1futs.fd"
 File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count194
+\scratchcounter=\count195
 \scratchdimen=\dimen166
 \scratchbox=\box61
-\nofMPsegments=\count195
-\nofMParguments=\count196
+\nofMPsegments=\count196
+\nofMParguments=\count197
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count197
+\MPscratchCnt=\count198
 \MPscratchDim=\dimen167
-\MPnumerator=\count198
-\makeMPintoPDFobject=\count199
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count200
 \everyMPtoPDFconversion=\toks37
 )
-LaTeX Info: Redefining \degres on input line 19.
-LaTeX Info: Redefining \dots on input line 19.
-LaTeX Info: Redefining \up on input line 19.
+LaTeX Info: Redefining \degres on input line 20.
+LaTeX Info: Redefining \dots on input line 20.
+LaTeX Info: Redefining \up on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1257,7 +1251,7 @@ LaTeX Info: Redefining \up on input line 19.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
+* modes: 
 * h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
 * v-part:(T,H,B)=(14.22636pt, 773.91498pt, 56.9055pt)
 * \paperwidth=597.50787pt
@@ -1266,21 +1260,21 @@ LaTeX Info: Redefining \up on input line 19.
 * \textheight=773.91498pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
-* \topmargin=-89.91742pt
+* \topmargin=-95.04362pt
 * \headheight=12.0pt
-* \headsep=19.8738pt
+* \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=88.0pt
-* \marginparsep=7.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
@@ -1294,139 +1288,129 @@ Package minitoc(hints) Warning: W0099
 (minitoc(hints))                It is incompatible 
 (minitoc(hints))                with the minitoc package.
 
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 20.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
-File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+Package minitoc Info: I0024
+(minitoc)             PREPARING MINITOCS FROM livre.toc on input line 22.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc1.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc2.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc3.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc4.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc5.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 23.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 23.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 20
-.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 23.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\fmlfutmi.fd"
+("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
+\livre.toc"
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 2.
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 4.
+
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\fmlfutmi.fd"
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 20.
+(Font)              scaled to size 11.03998pt on input line 4.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 20.
+(Font)              scaled to size 8.27998pt on input line 4.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 20.
+(Font)              scaled to size 6.43999pt on input line 4.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 20.
+(Font)              scaled to size 11.03998pt on input line 4.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 20.
+(Font)              scaled to size 8.27998pt on input line 4.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 20.
-LaTeX Font Info:    Try loading font information for U+msa on input line 20.
-
+(Font)              scaled to size 6.43999pt on input line 4.
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 20.
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+))
+\tf@toc=\write4
+ [1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Chapitre 1.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 24.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<C:/texmf/tex/latex/teach/logo.png, id=1, 77.69025pt x 44.0847pt>
-File: C:/texmf/tex/latex/teach/logo.png Graphic file (type png)
+Package minitoc Info: I0006
+(minitoc)             livre.mtc1 is empty on input line 24.
+ [2
 
-<use C:/texmf/tex/latex/teach/logo.png>
-Package pdftex.def Info: C:/texmf/tex/latex/teach/logo.png used on input line 2
-0.
-(pdftex.def)             Requested size: 69.92055pt x 39.67584pt.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 20.
+]
+Chapitre 2.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 20.
+(Font)              scaled to size 10.07397pt on input line 26.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 20.
+(Font)              scaled to size 7.63599pt on input line 26.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 20.
+(Font)              scaled to size 5.51999pt on input line 26.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 20.
+(Font)              scaled to size 10.07397pt on input line 26.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 20.
+(Font)              scaled to size 7.63599pt on input line 26.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 20.
+(Font)              scaled to size 5.51999pt on input line 26.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 26.
 
+("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
+\livre.mtc2"
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 1.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
-LaTeX Warning: Command \` invalid in math mode on input line 20.
-
-
-Overfull \hbox (78.67908pt too wide) in paragraph at lines 20--20
- [] 
  []
 
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 23.
- ( FP-ADD ) ( FP-ADD ) ( FP-ADD ) ( FP-ADD
-) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-ADD ) ( FP-ADD ) ( FP-EVAL ( FP-UPN
-( FP-ROUND ) ) ) ( FP-ADD ) ( FP-ADD ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-( FP-ADD ) ( FP-ADD ) ( FP-ADD )
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/texmf/tex/latex/teach/
-logo.png>] ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\ts1futs.fd")
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[2]
-File: C:/texmf/tex/latex/teach/logo.png Graphic file (type png)
- <use C:/texmf/tex/latex/teach/logo.png>
-Package pdftex.def Info: C:/texmf/tex/latex/teach/logo.png used on input line 8
-8.
-(pdftex.def)             Requested size: 69.92055pt x 39.67584pt.
-
-
-LaTeX Warning: Command \` invalid in math mode on input line 88.
-
-
-Overfull \hbox (78.67908pt too wide) in paragraph at lines 88--88
- [] 
+Overfull \hbox (0.4pt too wide) in paragraph at lines 38--39
+[][]
  []
 
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[3]
-File: C:/texmf/tex/latex/teach/logo.png Graphic file (type png)
- <use C:/texmf/tex/latex/teach/logo.png>
-Package pdftex.def Info: C:/texmf/tex/latex/teach/logo.png used on input line 1
-33.
-(pdftex.def)             Requested size: 69.92055pt x 39.67584pt.
+LaTeX Warning: Command \` invalid in math mode on input line 47.
 
 
-LaTeX Warning: Command \` invalid in math mode on input line 133.
-
-
-Overfull \hbox (78.67908pt too wide) in paragraph at lines 133--133
- [] 
+Overfull \hbox (0.4pt too wide) in paragraph at lines 49--50
+[][]
  []
 
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-ADD ) ( FP-ADD ) ( FP-ADD ) ( FP-ADD
-) ( FP-ADD ) ( FP-ADD ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-ADD )
-( FP-ADD ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-ADD ) ( FP-ADD ) ( FP-ADD
-) ( FP-ADD ) ( FP-ADD ) ( FP-ADD ) ( FP-ADD ) ( FP-ADD ) ( FP-ADD ) ( FP-ADD )
-( FP-ADD ) ( FP-ADD ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-ADD ) ( FP-ADD
-) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-ADD ) ( FP-EVAL ( FP-UPN ( FP-ROUND
-) ) ) ( FP-ADD ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-ADD ) ( FP-ADD )
-( FP-ADD ) ( FP-ADD ) ( FP-ADD ) ( FP-ADD ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) )
-) ( FP-ADD )
+[3
+
+]
+
+LaTeX Warning: Command \` invalid in math mode on input line 57.
+
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 59--60
+[][]
+ []
+
+
+LaTeX Warning: Command \` invalid in math mode on input line 65.
+
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 67--68
+[][]
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1434,6 +1418,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [4] ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
+LaTeX Font Info:    Try loading font information for TS1+futs on input line 81.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\ts1futs.fd"
+File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
+) ( FP-EVAL
+( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
+
+LaTeX Warning: Command \` invalid in math mode on input line 125.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1441,162 +1440,67 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [5]
-File: C:/texmf/tex/latex/teach/logo.png Graphic file (type png)
- <use C:/texmf/tex/latex/teach/logo.png>
-Package pdftex.def Info: C:/texmf/tex/latex/teach/logo.png used on input line 2
-16.
-(pdftex.def)             Requested size: 69.92055pt x 39.67584pt.
+Chapitre 3.
 
-
-LaTeX Warning: Command \` invalid in math mode on input line 216.
-
-
-Overfull \hbox (78.67908pt too wide) in paragraph at lines 216--216
- [] 
- []
-
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[6]
-File: C:/texmf/tex/latex/teach/logo.png Graphic file (type png)
- <use C:/texmf/tex/latex/teach/logo.png>
-Package pdftex.def Info: C:/texmf/tex/latex/teach/logo.png used on input line 2
-61.
-(pdftex.def)             Requested size: 69.92055pt x 39.67584pt.
-
-
-LaTeX Warning: Command \` invalid in math mode on input line 261.
-
-
-Overfull \hbox (78.67908pt too wide) in paragraph at lines 261--261
- [] 
- []
-
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[7] ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[8]
-File: C:/texmf/tex/latex/teach/logo.png Graphic file (type png)
- <use C:/texmf/tex/latex/teach/logo.png>
-Package pdftex.def Info: C:/texmf/tex/latex/teach/logo.png used on input line 3
-26.
-(pdftex.def)             Requested size: 69.92055pt x 39.67584pt.
-
-
-LaTeX Warning: Command \` invalid in math mode on input line 326.
-
-
-Overfull \hbox (78.67908pt too wide) in paragraph at lines 326--326
- [] 
- []
-
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[9]
-File: C:/texmf/tex/latex/teach/logo.png Graphic file (type png)
- <use C:/texmf/tex/latex/teach/logo.png>
-Package pdftex.def Info: C:/texmf/tex/latex/teach/logo.png used on input line 3
-88.
-(pdftex.def)             Requested size: 69.92055pt x 39.67584pt.
-
-
-LaTeX Warning: Command \` invalid in math mode on input line 388.
-
-
-Overfull \hbox (78.67908pt too wide) in paragraph at lines 388--388
- [] 
- []
-
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-File: C:/texmf/tex/latex/teach/logo.png Graphic file (type png)
-
-<use C:/texmf/tex/latex/teach/logo.png>
-Package pdftex.def Info: C:/texmf/tex/latex/teach/logo.png used on input line 4
-57.
-(pdftex.def)             Requested size: 69.92055pt x 39.67584pt.
-
-
-LaTeX Warning: Command \` invalid in math mode on input line 457.
-
-
-Overfull \hbox (78.67908pt too wide) in paragraph at lines 457--457
- [] 
+("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
+\livre.mtc3")
+Overfull \hbox (0.4pt too wide) in paragraph at lines 148--149
+[][]
  []
 
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+Overfull \hbox (0.4pt too wide) in paragraph at lines 153--154
+[][]
+ []
 
-[10] ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-( FP-EVAL ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
+[6
+
+]
+Chapitre 4.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc4 is empty on input line 159.
+[7
+
+]
+Chapitre 5.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc5 is empty on input line 161.
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
-(minitoc)             Creating the devoir-3ème.maf file.
-
+(minitoc)             Creating the livre.maf file.
 
 Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
-(minitoc(hints))                in the devoir-3ème.log file.
+(minitoc(hints))                in the livre.log file.
 
+[8
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[11]
-("D:\mes-documents\mes-ouvrages\2019-2020\Mes devoirs de Mathématiques 3ème\d
-evoir-3ème.aux") ) 
+]
+("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
+\livre.aux") ) 
 Here is how much of TeX's memory you used:
- 10754 strings out of 494045
- 143676 string characters out of 3145969
- 388087 words of memory out of 3000000
- 13528 multiletter control sequences out of 15000+200000
- 86466 words of font info for 105 fonts, out of 3000000 for 9000
+ 10752 strings out of 494045
+ 144680 string characters out of 3145969
+ 380038 words of memory out of 3000000
+ 13516 multiletter control sequences out of 15000+200000
+ 101885 words of font info for 99 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 48i,16n,46p,840b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/
-8r.enc}{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/fourier/fourier-bb.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/fourier/fourier-mcl.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/fourier/fourier-mex.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/fourier/fourier-ml.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/fourier/fourier-ms.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/lm/lmsso10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
-/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/u
-topia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/pu
-tri8a.pfb>
-Output written on devoir-3ème.pdf (11 pages, 248951 bytes).
+ 48i,16n,46p,833b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-su
+per-t1.enc}{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{
+C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/adobe/utopia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/adobe/utopia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ad
+obe/utopia/putri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm
+-super/sfss1728.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-su
+per/sfsx0800.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super
+/sfsx1728.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sf
+sx2488.pfb>
+Output written on livre.pdf (8 pages, 140683 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
