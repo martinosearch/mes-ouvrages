@@ -1,15 +1,37 @@
 \select@language {french}
-\contentsline {chapter}{\numberline {1}Sens de variation d'une application affine}{2}
-\contentsline {chapter}{\numberline {2}Parler statistique}{3}
-\contentsline {section}{\numberline {I.}Population-individu}{3}
-\contentsline {section}{\numberline {II.}Caract\IeC {\`e}re-modalit\IeC {\'e}}{3}
-\contentsline {section}{\numberline {III.}Nature d'un caract\IeC {\`e}re}{4}
-\contentsline {subsection}{\numberline {III. 1.}Caract\IeC {\`e}re qualitatif}{4}
-\contentsline {subsection}{\numberline {III. 2.}Caract\IeC {\`e}re quantitatif}{4}
-\contentsline {chapter}{\numberline {3}\IeC {\'E}tude d'un caract\IeC {\`e}re qualitatif}{6}
-\contentsline {section}{\numberline {I.}La fr\IeC {\'e}quence d'une modalit\IeC {\'e}}{6}
-\contentsline {section}{\numberline {II.}Le mode d'une s\IeC {\'e}rie statistique}{6}
-\contentsline {section}{\numberline {III.}Les cumules}{6}
-\contentsline {section}{\numberline {IV.}Repr\IeC {\'e}senter une s\IeC {\'e}rie statistique par un diagramme}{6}
-\contentsline {chapter}{\numberline {4}\IeC {\'E}tude d'un caract\IeC {\`e}re quantitatif}{7}
-\contentsline {chapter}{\numberline {5}Les pyramides et les c\IeC {\^o}nes}{8}
+\contentsline {chapter}{\numberline {1}Op\IeC {\'e}rations sur les quotients}{4}
+\contentsline {section}{\numberline {I.}Additionner ou soustraire des quotients ayant le m\IeC {\^e}me d\IeC {\'e}nominateur}{4}
+\contentsline {section}{\numberline {II.}Additionner ou soustraire des quotients n'ayant pas le m\IeC {\^e}me d\IeC {\'e}nominateur}{4}
+\contentsline {section}{\numberline {III.}Multiplier des quotients}{4}
+\contentsline {section}{\numberline {IV.}Diviser des quotients}{4}
+\contentsline {chapter}{\numberline {2}\IeC {\'E}galit\IeC {\'e}s de quotients}{5}
+\contentsline {section}{\numberline {I.}Le produit en croix}{5}
+\contentsline {section}{\numberline {II.}Proportionnalit\IeC {\'e}}{5}
+\contentsline {chapter}{\numberline {3}Puissances}{6}
+\contentsline {chapter}{\numberline {4}D\IeC {\'e}velopper un produit}{7}
+\contentsline {section}{\numberline {I.}D\IeC {\'e}veloppements \IeC {\'e}l\IeC {\'e}mentaires}{7}
+\contentsline {section}{\numberline {II.}D\IeC {\'e}veloppements complexes}{7}
+\contentsline {chapter}{\numberline {5}Factoriser une somme}{8}
+\contentsline {section}{\numberline {I.}Factoriser par la mise en \IeC {\'e}vidence d'un facteur commun}{8}
+\contentsline {section}{\numberline {II.}Factoriser \IeC {\`a} l'aide d'une identit\IeC {\'e} remarquable}{8}
+\contentsline {chapter}{\numberline {6}Les polyn\IeC {\^o}mes}{9}
+\contentsline {chapter}{\numberline {7}Les fractions rationnelles}{10}
+\contentsline {chapter}{\numberline {8}Les racines carr\IeC {\'e}s}{11}
+\contentsline {chapter}{\numberline {9}Les intervalles}{12}
+\contentsline {chapter}{\numberline {10}D\IeC {\'e}nombrement}{13}
+\contentsline {chapter}{\numberline {11}Approximation d\IeC {\'e}cimale des nombres r\IeC {\'e}els}{14}
+\contentsline {chapter}{\numberline {12}Les applications}{15}
+\contentsline {chapter}{\numberline {13}Les applications affines}{16}
+\contentsline {chapter}{\numberline {14}Sens de variation d'une application affine}{17}
+\contentsline {chapter}{\numberline {15}Parler statistique}{18}
+\contentsline {section}{\numberline {I.}Population-individu}{18}
+\contentsline {section}{\numberline {II.}Caract\IeC {\`e}re-modalit\IeC {\'e}}{18}
+\contentsline {section}{\numberline {III.}Nature d'un caract\IeC {\`e}re}{19}
+\contentsline {subsection}{\numberline {III. 1.}Caract\IeC {\`e}re qualitatif}{19}
+\contentsline {subsection}{\numberline {III. 2.}Caract\IeC {\`e}re quantitatif}{19}
+\contentsline {chapter}{\numberline {16}Traitement des donn\IeC {\'e}es}{21}
+\contentsline {section}{\numberline {I.}La fr\IeC {\'e}quence d'une modalit\IeC {\'e}}{21}
+\contentsline {section}{\numberline {II.}Le mode d'une s\IeC {\'e}rie statistique}{21}
+\contentsline {section}{\numberline {III.}Les cumules}{22}
+\contentsline {chapter}{\numberline {17}Visualiser une s\IeC {\'e}rie statistique par un diagramme}{23}
+\contentsline {chapter}{\numberline {18}Les pyramides et les c\IeC {\^o}nes}{24}

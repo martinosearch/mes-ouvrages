@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.4.30)  17 MAY 2020 00:25
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.4.30)  24 JUN 2020 01:34
 entering extended mode
 **livre.tex
 
@@ -1009,7 +1009,7 @@ Package: xlop 2009/12/02 package wrapper for xlop.tex
 \c@exolisti=\count166
 \c@exolistii=\count167
 \enitdp@exolist=\count168
-\enitdp@defitemize=\count169
+\enitdp@defnslist=\count169
 \c@defenumeratei=\count170
 \enitdp@defenumerate=\count171
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mdframed\mdframed.sty"
@@ -1300,6 +1300,32 @@ Package minitoc Info: I0033
 (minitoc)             Writing livre.mtc4.
 Package minitoc Info: I0033
 (minitoc)             Writing livre.mtc5.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc6.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc7.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc8.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc9.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc10.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc11.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc12.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc13.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc14.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc15.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc16.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc17.
+Package minitoc Info: I0033
+(minitoc)             Writing livre.mtc18.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 23.
 LaTeX Font Info:    Try loading font information for T1+cmss on input line 23.
@@ -1313,101 +1339,193 @@ LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <24.88> not available
 \livre.toc"
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 2.
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 4.
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 3.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\fmlfutmi.fd"
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 4.
+(Font)              scaled to size 11.03998pt on input line 3.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 4.
+(Font)              scaled to size 8.27998pt on input line 3.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 4.
+(Font)              scaled to size 6.43999pt on input line 3.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 4.
+(Font)              scaled to size 11.03998pt on input line 3.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 4.
+(Font)              scaled to size 8.27998pt on input line 3.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 4.
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+(Font)              scaled to size 6.43999pt on input line 3.
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-))
+) [1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
 \tf@toc=\write4
- [1
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2] [3
+
+]
 Chapitre 1.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 24.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 29.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package minitoc Info: I0006
-(minitoc)             livre.mtc1 is empty on input line 24.
- [2
-
-]
-Chapitre 2.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 26.
+(Font)              scaled to size 10.07397pt on input line 29.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 26.
+(Font)              scaled to size 7.63599pt on input line 29.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 26.
+(Font)              scaled to size 5.51999pt on input line 29.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 26.
+(Font)              scaled to size 10.07397pt on input line 29.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 26.
+(Font)              scaled to size 7.63599pt on input line 29.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 26.
+(Font)              scaled to size 5.51999pt on input line 29.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 26.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 29.
 
 ("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
-\livre.mtc2"
+\livre.mtc1"
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 1.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Overfull \hbox (27.80656pt too wide) in paragraph at lines 30--30
+ |[]\T1/cmss/bx/n/24.88 Additionner ou sous-traire des quo-tients ayant
+ []
+
+[4
+
+]
+Chapitre 2.
+
+("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
+\livre.mtc2") [5
+
+]
+Chapitre 3.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc3 is empty on input line 39.
+[6
+
+]
+Chapitre 4.
+
+("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
+\livre.mtc4") [7
+
+]
+Chapitre 5.
+
+("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
+\livre.mtc5") [8
+
+]
+Chapitre 6.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc6 is empty on input line 48.
+[9
+
+]
+Chapitre 7.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc7 is empty on input line 50.
+[10
+
+]
+Chapitre 8.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc8 is empty on input line 52.
+[11
+
+]
+Chapitre 9.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc9 is empty on input line 54.
+[12
+
+]
+Chapitre 10.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc10 is empty on input line 56.
+[13
+
+]
+Chapitre 11.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc11 is empty on input line 58.
+[14
+
+]
+Chapitre 12.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc12 is empty on input line 60.
+[15
+
+]
+Chapitre 13.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc13 is empty on input line 62.
+[16
+
+]
+Chapitre 14.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc14 is empty on input line 64.
+[17
+
+]
+Chapitre 15.
+
+("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
+\livre.mtc15")
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 38--39
+Overfull \hbox (0.4pt too wide) in paragraph at lines 78--79
 [][]
  []
 
 
-LaTeX Warning: Command \` invalid in math mode on input line 47.
+LaTeX Warning: Command \` invalid in math mode on input line 87.
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 49--50
+Overfull \hbox (0.4pt too wide) in paragraph at lines 89--90
 [][]
  []
 
-[3
+[18
 
 ]
 
-LaTeX Warning: Command \` invalid in math mode on input line 57.
+LaTeX Warning: Command \` invalid in math mode on input line 97.
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 59--60
+Overfull \hbox (0.4pt too wide) in paragraph at lines 99--100
 [][]
  []
 
 
-LaTeX Warning: Command \` invalid in math mode on input line 65.
+LaTeX Warning: Command \` invalid in math mode on input line 105.
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 67--68
+Overfull \hbox (0.4pt too wide) in paragraph at lines 107--108
 [][]
  []
 
@@ -1417,19 +1535,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4] ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
-LaTeX Font Info:    Try loading font information for TS1+futs on input line 81.
-
+[19] ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
+LaTeX Font Info:    Try loading font information for TS1+futs on input line 121
+.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\ts1futs.fd"
 File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
 ) ( FP-EVAL
 ( FP-UPN ( FP-ROUND ) ) ) ( FP-EVAL ( FP-UPN ( FP-ROUND ) ) )
 
-LaTeX Warning: Command \` invalid in math mode on input line 125.
+LaTeX Warning: Command \` invalid in math mode on input line 165.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
 
@@ -1439,32 +1557,54 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5]
-Chapitre 3.
+[20]
+Chapitre 16.
 
 ("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
-\livre.mtc3")
-Overfull \hbox (0.4pt too wide) in paragraph at lines 148--149
+\livre.mtc16")
+Overfull \hbox (0.4pt too wide) in paragraph at lines 188--189
 [][]
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 153--154
+Overfull \hbox (0.4pt too wide) in paragraph at lines 193--194
 [][]
  []
 
-[6
+<memento.png, id=74, 24.09pt x 24.09pt>
+File: memento.png Graphic file (type png)
+ <use memento.png>
+Package pdftex.def Info: memento.png used on input line 198.
+(pdftex.def)             Requested size: 24.08992pt x 24.08992pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 203--204
+[][]
+ []
+
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 208--209
+[][]
+ []
+
+[21
+
+ <C:/texmf/tex/latex/teach/memento.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22]
+Chapitre 17.
+Package minitoc Info: I0006
+(minitoc)             livre.mtc17 is empty on input line 210.
+[23
 
 ]
-Chapitre 4.
+Chapitre 18.
 Package minitoc Info: I0006
-(minitoc)             livre.mtc4 is empty on input line 159.
-[7
-
-]
-Chapitre 5.
-Package minitoc Info: I0006
-(minitoc)             livre.mtc5 is empty on input line 161.
+(minitoc)             livre.mtc18 is empty on input line 213.
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the livre.maf file.
@@ -1473,34 +1613,36 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the livre.log file.
 
-[8
+[24
 
 ]
 ("D:\mes-documents\mes-ouvrages\2019-2020\Livre version teach\livre maths 3ème
 \livre.aux") ) 
 Here is how much of TeX's memory you used:
- 10752 strings out of 494045
- 144680 string characters out of 3145969
- 380038 words of memory out of 3000000
- 13516 multiletter control sequences out of 15000+200000
- 101885 words of font info for 99 fonts, out of 3000000 for 9000
+ 10813 strings out of 494045
+ 145785 string characters out of 3145969
+ 380037 words of memory out of 3000000
+ 13522 multiletter control sequences out of 15000+200000
+ 103678 words of font info for 106 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 48i,16n,46p,833b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,16n,46p,833b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-su
 per-t1.enc}{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{
 C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/adobe/utopia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/adobe/utopia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ad
-obe/utopia/putri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm
--super/sfss1728.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-su
-per/sfsx0800.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super
-/sfsx1728.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sf
-sx2488.pfb>
-Output written on livre.pdf (8 pages, 140683 bytes).
+s (x86)/MiKTeX 2.9/fonts/type1/public/fourier/fourier-ms.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/adobe/utopia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/adobe/utopia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/a
+dobe/utopia/putri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/c
+m-super/sfss1728.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-s
+uper/sfsx0800.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-supe
+r/sfsx1728.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/s
+fsx2488.pfb>
+Output written on livre.pdf (24 pages, 179908 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
+ 129 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
