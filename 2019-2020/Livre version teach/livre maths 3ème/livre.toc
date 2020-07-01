@@ -1,37 +1,47 @@
 \select@language {french}
 \contentsline {chapter}{\numberline {1}Op\IeC {\'e}rations sur les quotients}{4}
-\contentsline {section}{\numberline {I.}Additionner ou soustraire des quotients ayant le m\IeC {\^e}me d\IeC {\'e}nominateur}{4}
-\contentsline {section}{\numberline {II.}Additionner ou soustraire des quotients n'ayant pas le m\IeC {\^e}me d\IeC {\'e}nominateur}{4}
-\contentsline {section}{\numberline {III.}Multiplier des quotients}{4}
-\contentsline {section}{\numberline {IV.}Diviser des quotients}{4}
-\contentsline {chapter}{\numberline {2}\IeC {\'E}galit\IeC {\'e}s de quotients}{5}
-\contentsline {section}{\numberline {I.}Le produit en croix}{5}
-\contentsline {section}{\numberline {II.}Proportionnalit\IeC {\'e}}{5}
-\contentsline {chapter}{\numberline {3}Puissances}{6}
-\contentsline {chapter}{\numberline {4}D\IeC {\'e}velopper un produit}{7}
-\contentsline {section}{\numberline {I.}D\IeC {\'e}veloppements \IeC {\'e}l\IeC {\'e}mentaires}{7}
-\contentsline {section}{\numberline {II.}D\IeC {\'e}veloppements complexes}{7}
-\contentsline {chapter}{\numberline {5}Factoriser une somme}{8}
-\contentsline {section}{\numberline {I.}Factoriser par la mise en \IeC {\'e}vidence d'un facteur commun}{8}
-\contentsline {section}{\numberline {II.}Factoriser \IeC {\`a} l'aide d'une identit\IeC {\'e} remarquable}{8}
-\contentsline {chapter}{\numberline {6}Les polyn\IeC {\^o}mes}{9}
-\contentsline {chapter}{\numberline {7}Les fractions rationnelles}{10}
-\contentsline {chapter}{\numberline {8}Les racines carr\IeC {\'e}s}{11}
-\contentsline {chapter}{\numberline {9}Les intervalles}{12}
-\contentsline {chapter}{\numberline {10}D\IeC {\'e}nombrement}{13}
-\contentsline {chapter}{\numberline {11}Approximation d\IeC {\'e}cimale des nombres r\IeC {\'e}els}{14}
-\contentsline {chapter}{\numberline {12}Les applications}{15}
-\contentsline {chapter}{\numberline {13}Les applications affines}{16}
-\contentsline {chapter}{\numberline {14}Sens de variation d'une application affine}{17}
-\contentsline {chapter}{\numberline {15}Parler statistique}{18}
-\contentsline {section}{\numberline {I.}Population-individu}{18}
-\contentsline {section}{\numberline {II.}Caract\IeC {\`e}re-modalit\IeC {\'e}}{18}
-\contentsline {section}{\numberline {III.}Nature d'un caract\IeC {\`e}re}{19}
-\contentsline {subsection}{\numberline {III. 1.}Caract\IeC {\`e}re qualitatif}{19}
-\contentsline {subsection}{\numberline {III. 2.}Caract\IeC {\`e}re quantitatif}{19}
-\contentsline {chapter}{\numberline {16}Traitement des donn\IeC {\'e}es}{21}
-\contentsline {section}{\numberline {I.}La fr\IeC {\'e}quence d'une modalit\IeC {\'e}}{21}
-\contentsline {section}{\numberline {II.}Le mode d'une s\IeC {\'e}rie statistique}{21}
-\contentsline {section}{\numberline {III.}Les cumules}{22}
-\contentsline {chapter}{\numberline {17}Visualiser une s\IeC {\'e}rie statistique par un diagramme}{23}
-\contentsline {chapter}{\numberline {18}Les pyramides et les c\IeC {\^o}nes}{24}
+\contentsline {section}{\numberline {I.}Additionner ou soustraire des quotients}{4}
+\contentsline {section}{\numberline {II.}Multiplier des quotients}{4}
+\contentsline {section}{\numberline {III.}Diviser des quotients}{4}
+\contentsline {chapter}{\numberline {2}\IeC {\'E}galit\IeC {\'e}s de quotients}{6}
+\contentsline {section}{\numberline {I.}Le produit en croix}{6}
+\contentsline {section}{\numberline {II.}Proportionnalit\IeC {\'e}}{6}
+\contentsline {chapter}{\numberline {3}Puissances}{7}
+\contentsline {chapter}{\numberline {4}D\IeC {\'e}velopper un produit}{8}
+\contentsline {section}{\numberline {I.}D\IeC {\'e}veloppements \IeC {\'e}l\IeC {\'e}mentaires}{8}
+\contentsline {section}{\numberline {II.}D\IeC {\'e}veloppements complexes}{8}
+\contentsline {chapter}{\numberline {5}Factoriser une somme}{9}
+\contentsline {section}{\numberline {I.}Factoriser par la mise en \IeC {\'e}vidence d'un facteur commun}{9}
+\contentsline {section}{\numberline {II.}Factoriser \IeC {\`a} l'aide d'une identit\IeC {\'e} remarquable}{9}
+\contentsline {chapter}{\numberline {6}Les polyn\IeC {\^o}mes}{10}
+\contentsline {chapter}{\numberline {7}Les fractions rationnelles}{11}
+\contentsline {chapter}{\numberline {8}Les racines carr\IeC {\'e}s}{12}
+\contentsline {chapter}{\numberline {9}Les intervalles}{13}
+\contentsline {chapter}{\numberline {10}D\IeC {\'e}nombrement}{14}
+\contentsline {chapter}{\numberline {11}Approximation d\IeC {\'e}cimale des nombres r\IeC {\'e}els}{15}
+\contentsline {chapter}{\numberline {12}Les applications}{16}
+\contentsline {chapter}{\numberline {13}Les applications affines}{17}
+\contentsline {chapter}{\numberline {14}Sens de variation d'une application affine}{18}
+\contentsline {chapter}{\numberline {15}Parler statistique}{19}
+\contentsline {section}{\numberline {I.}Population-individu}{19}
+\contentsline {section}{\numberline {II.}Caract\IeC {\`e}re-modalit\IeC {\'e}}{19}
+\contentsline {section}{\numberline {III.}Nature d'un caract\IeC {\`e}re}{20}
+\contentsline {subsection}{\numberline {III. 1.}Caract\IeC {\`e}re qualitatif}{20}
+\contentsline {subsection}{\numberline {III. 2.}Caract\IeC {\`e}re quantitatif}{20}
+\contentsline {chapter}{\numberline {16}Traitement des donn\IeC {\'e}es}{22}
+\contentsline {section}{\numberline {I.}La fr\IeC {\'e}quence d'une modalit\IeC {\'e}}{22}
+\contentsline {section}{\numberline {II.}Le mode d'une s\IeC {\'e}rie statistique}{22}
+\contentsline {section}{\numberline {III.}Les cumules}{23}
+\contentsline {chapter}{\numberline {17}Visualiser une s\IeC {\'e}rie statistique par un diagramme}{24}
+\contentsline {chapter}{\numberline {18}Les pyramides et les c\IeC {\^o}nes}{25}
+\contentsline {chapter}{\numberline {19}Le th\IeC {\'e}or\IeC {\`e}me de Thal\IeC {\`e}s}{26}
+\contentsline {chapter}{\numberline {20}La r\IeC {\'e}ciproque du th\IeC {\'e}or\IeC {\`e}me de Thal\IeC {\`e}s}{27}
+\contentsline {chapter}{\numberline {21}Le th\IeC {\'e}or\IeC {\`e}me de Pythagore}{28}
+\contentsline {chapter}{\numberline {22}D\IeC {\'e}montrer qu'un triangle est rectangle}{29}
+\contentsline {chapter}{\numberline {23}Sinus, cosinus et tangente d'un angle aigu}{30}
+\contentsline {chapter}{\numberline {24}Propri\IeC {\'e}t\IeC {\'e}s des vecteurs}{31}
+\contentsline {chapter}{\numberline {25}Rep\IeC {\'e}rer un point dans le plan}{32}
+\contentsline {chapter}{\numberline {26}Les coordonn\IeC {\'e}es d'un vecteur}{33}
+\contentsline {chapter}{\numberline {27}\IeC {\'E}quations cart\IeC {\'e}siennes d'une droite}{34}
+\contentsline {chapter}{\numberline {28}Les angles inscrits}{35}
+\contentsline {chapter}{\numberline {29}Les pyramides et les c\IeC {\^o}nes}{36}
