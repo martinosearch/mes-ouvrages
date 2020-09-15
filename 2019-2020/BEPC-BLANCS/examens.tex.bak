@@ -1,0 +1,157 @@
+\documentclass[12pt,a4paper]{book}
+\usepackage[minitoc]{teach}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+
+\author{YAWO Kossi Atsu}
+\newcommand{\prof}{YAWO Kossi Atsu}
+\newcommand{\matiere}{MATHEMATIQUES}
+\newcommand{\classe}{3$^{ème}$}
+\title{Mes devoirs de Mathématiques}
+\begin{document}
+\begin{examen}{BEPC-BLANC JUILLET 2020}{EPREUVE DE MATHEMATIQUES}{2}{2H}
+\begin{exo}[4,5]
+\begin{enumerate}
+\item Calcule:\\
+$A=-\frac{5}{3}\times (4+\frac{7}{5})$ \qquad ; \qquad $B=\frac{4}{5}-\frac{2}{5}:\frac{7}{15}$
+\item \begin{enumerate}
+\item Développe $(\sqrt{3}+1)^2$ et $(\sqrt{3}-1)^2$.
+\item Déduis-en une écriture plus simple de : $A=\sqrt{4+2\sqrt{3}}$ et $B=\sqrt{4-2\sqrt{3}}$
+\end{enumerate}
+\item On donne les intervalles suivants: $A=]\leftarrow;-3[$ \qquad ; \qquad $B=]-5;2[$ \qquad et \qquad $C=]1;7[$
+\begin{enumerate}
+\item Traduis chacun de ces intervalles par une inégalité.
+\item Détermine: $A\cap B$ \qquad ; \qquad $B\cup C$ \qquad et \qquad $A \cap C$
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[5,5]
+On donne les polynômes suivants: \\ 
+$F=(x-5)(3x+4)-(2x-10)(x-1)+x-5$ \quad et \quad $G=(x-2)^2-9$.
+\begin{enumerate}
+\item Développe, réduis et ordonne F et G.
+\item Écris F et G sous la forme de produit de facteurs du premier degré.
+\item Soit la fraction rationnelle $H=\frac{(x+1)(x-5)}{(x-5)(x+7)}$.
+\begin{enumerate}
+\item Détermine la condition d'existence d'une valeur numérique de H.
+\item Simplifie H dans cette condition d'existence.
+\item Détermine la valeur x pour $H=\frac{1}{2}$.
+\item Calcule la valeur numérique de H pour $x=\sqrt{3}$.
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[4]
+L'unité de longueur est le centimètre. $ABC$ est un triangle rectangle en B tel que $AB=12$ et $BC=5$. Fais une figure que tu compléteras au fur et à mesure.
+\begin{enumerate}
+\item  Marque le point D de $[AB]$ tel $AD=9$ puis trace la perpendiculaire à $(AB)$ en D; elle coupe $(AC)$ en $E$.
+\item Calculer $AC$.
+\competence{•}{1}
+\item Que peux-tu dire des droite $(DE)$ et $(BC)$? Justifie.
+\competence{•}{2}
+\item Calcule les distances $AE$ et $DE$. 
+\end{enumerate}
+\competence{figure}{3}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[6]
+Dans le plan muni d'un repère orthonormé (O, I, J), on considère les points A(7;1), B(8;4) et C(-1;7).
+\begin{enumerate}
+\item Place les points A, B et C dans le repère.
+\item \begin{enumerate}
+\item Calcule les distances AB, BC et AC.
+\item Déduis-en la nature du triangle ABC.
+\end{enumerate}
+\item Soient le point M milieu du segment [AC] et le point D symétrique de B par rapport à M.
+\begin{enumerate}
+\item Détermine les coordonnées de M et de D.
+\item Précise la nature du quadrilatère ABCD. Justifie.
+\end{enumerate} 
+\item \begin{enumerate}
+\item Construis le cercle $\mathcal{(C)}$ circonscrit au quadrilatère ABCD.
+\item Précise son centre, calcule son rayon et montre qu'il passe par le point O.
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\end{examen}
+
+\newpage
+\begin{examen}{BEPC-BLANC AOÛT 2020}{EPREUVE DE MATHEMATIQUES}{2}{2H}
+\begin{exo}[5,5]
+\begin{enumerate}
+\item Calcule et mets les résultats sous la forme de fractions irréductibles:
+$A=\frac{5}{3}-\frac{1}{3}\times\frac{9}{16}$ \qquad ; \qquad $B=\frac{3}{4}-\frac{2}{3}:\frac{18}{15}$.
+\item Calcule et écris le résultat en notation scientifique: $C=\frac{8\times10^8\times1,6}{0,4\times10^{-3}}$.
+\item On pose $D=\sqrt{3+2\sqrt{2}}$ et $E=\sqrt{3-2\sqrt{2}}$.
+\begin{enumerate}
+\item Calcule $(1+\sqrt{2})^2$ et $(1-\sqrt{2})^2$
+\item En déduire la valeur la plus simple de $D$ et $E$.
+\item Calcule $D+E$ ; $D-E$ et $\frac{D}{E}$.
+\end{enumerate}
+\item Ecris sous la forme de $a\sqrt{b}$: $C=\sqrt{12}-\sqrt{3}+\sqrt{48}$
+\item Montre que $C=(\sqrt{5}+\sqrt{10})^2-10\sqrt{2}$ est un nombre entier.
+\end{enumerate}
+\competence{•}{4}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[4,5]
+On condidère les expressions littérales suivantes où $x$ désigne un nombre réel:\\
+$F=(x-2)(-3x+1)$ et $G=(3x-1)(2x+3)-9x^2+1$
+\begin{enumerate}
+\item Développe, réduis et ordonne F suivant les puissances décroissantes de x.
+\item Factorise G puis résous l'équation $G=0$.
+\item Soit la fraction rationnelle K définie dans $\mathbb{R}$ par $K=\frac{-3x^2+7x-2}{(3x-1)(2x+3)}$
+\begin{enumerate}
+\item Trouve la condition d'existence d'une valeur numérique de K.
+\item Simplifie K.
+\item Calcule la valeur numérique de K pour $x=\sqrt{3}$ en rendant le dénominateur rationnel.
+\item Donner un encadrement de K pour $x=\sqrt{2}$ à $10^{-2}$ près sachant que $1,414<\sqrt{2}<1,415$.
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[4]
+L'unité de longueur est le centimètre. ABC est un triangle tel que AB=6,4; AC=4,8 et BC=8.
+\begin{enumerate}
+\item Démontre que le triangle ABC est rectangle.
+\item Calcule l'aire du triangle ABC.
+\item Soit I le milieu de [AB] et J un point du segment [BC] tel que (IJ) et (AC) soient parallèles. Démontre que J est le milieu de [BC].
+\end{enumerate}
+\end{exo}
+
+\vspace{0.5cm}
+
+\begin{exo}[6]
+Dans le plan muni d'un repère orthonormé (O,I,J), on donne les points A(7;-9), B(-5;-4) et C(0;8).
+\begin{enumerate}
+\item Calcule les distances AB, BC et AC. Déduis-en la nature du triangle ABC.
+\item Calcule les coordonnées du milieu K de [AC].
+\item Soit $\mathcal{(C)}$ le cercle de diamètre [AC] et le point T(0;-9). Démontre que ce cercle passe par B et T.
+\item Soit D le symétrique de B par rapport à K. Quelle est la nature du quadrilatère ABCD.
+\item Soit $(\Delta)$ la parallèle à l'axe des ordonnées passant par le point B. Cette droite recoupe le cercle $\mathcal{(C)}$ en un point E. Montre que les droites (DE) et (BE) sont perpendiculaires.
+\end{enumerate}
+\end{exo}
+
+\end{examen}
+
+\end{document}

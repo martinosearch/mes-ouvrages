@@ -1,12 +1,6 @@
 \documentclass[12pt,a4paper]{report}
 \usepackage[minitoc]{teach}
-\usepackage[utf8]{inputenc}
-\usepackage[french]{babel}
-\usepackage[T1]{fontenc}
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
-\usepackage{graphicx}
+\usepackage{hyperref}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 \renewcommand{\chaptertitlename}{Leçon}
@@ -16,13 +10,21 @@
 \newcommand{\prof}{YAWO Kossi Atsu}
 \newcommand{\matiere}{MATHEMATIQUES}
 \newcommand{\classe}{3$^{ème}$}
-\title{Mes devoirs de Mathématiques}
+\title{Mon Cahier de Maths\\ \classe}
+
+\setcounter{tocdepth}{1}
+
+
+\newcommand{\ex}{\par \underline{Exemple:}\\}
+
 \begin{document}
 \dominitoc
 
+\maketitle
+
 \tableofcontents
 \chapter*{Preface}
-La maîtrise des notions en mathématiques par un apprenant par avant tout par sa capacité à travailler en autonomie.
+La maîtrise des notions en mathématiques par un apprenant passe avant tout par sa capacité à travailler en autonomie.
 
 \vspace{1cm}
 Cordialement YAWO Kossi Atsu.
@@ -35,7 +37,7 @@ Cordialement YAWO Kossi Atsu.
 
 \item Dans les situations où les quotients donnés n'ont pas le même dénominateur, on réécris les quotients pour qu'ils aient le même dénominateur sans changer leurs valeurs.
 \end{defnslist}
-é\end{memento}
+\end{memento}
 
 \section{Multiplier des quotients}
 \begin{memento}
@@ -71,36 +73,233 @@ $A=\frac{4}{5}+\frac{3}{5}$ \qquad ; \qquad $B=\frac{2}{7}+\frac{1}{7}$
 
 \chapter{Égalités de quotients}
 \section{Le produit en croix}
+\begin{thm}
+Si $\frac{a}{b}=\frac{c}{d}$, alors $a\times d= b\times c$
+\end{thm}
 \section{Proportionnalité}
+\begin{defn}
+Dire que les nombres $x$, $y$ et $z$ sont proportionnels aux nombres $a$, $b$ et $c$ signifie que $\frac{x}{a}=\frac{y}{b}=\frac{y}{c}=k$.
+\end{defn}
+
+\begin{nb}
+$k$ est appelé \textbf{le coefficient de proportionnalité}.
+\end{nb}
+
+\begin{methode}
+On calcule $k$ en posant: $k=\frac{x+y+z}{a+b+c}$
+\end{methode}
+\exos
+\begin{exo}
+Trois héritiers se partagent la somme de $2 400 000$ proportionnellement à leur âges. Sachant qu'ils ont respectivement 20, 16 et 12 ans, Détermine la part de chacun.
+\end{exo}
+
+\begin{exo}
+Les dimensions d'un terrain rectangulaire sont proportionnelles à 3 et 5. Sachant que le demi-périmètre vaut 560m, détermine la longueur et la largeur de ce terrain.
+\end{exo}
+
+\chapter{Puissances}
+\section{Puissance à exposant négatif}
+\begin{defn}
+$a$ étant un nombre réel, $n$ un nombre entier naturel non nul: $a^{-n}=\frac{1}{a^{n}}$
+\end{defn}
+\section{Propriétés des puissances}
+\begin{memento}
+\begin{multicols}{2}
+\begin{defenumerate}
+\item $a^m \times a^n=a^{m+n}$\\
+\item $a^n \times b^n=(a+b)^n$\\
+\item $\frac{a^m}{a^n}=\left\{ \begin{array}{rl} a^{m-n} & \mbox{si m>n} \\ \frac{1}{a^{n-m}} & \mbox{si n>m} \end{array} \right.$\\
+\item $(-a)^n=\left\{ \begin{array}{rl} a^n & \mbox{si n est pair} \\ -a^n & \mbox{si n est impair}. \end{array} \right.$
+\end{defenumerate}
+\end{multicols}
+\end{memento}
+
+\chapter{Développer un produit}
+\section{Développements élémentaires}
+\subsection{Développer une expression de la forme $a(x+y)$}
+\begin{memento}
+$a(x+y)=ax+ay$
+\end{memento}
+\subsection{Développer une expression de la forme $(a+b)(x+y)$}
+\begin{memento}
+$(a+b)(x+y)=ax+ay+bx+by$
+\end{memento}
+\subsection{Développer avec les identités remarquables}
+\begin{memento}
+\begin{defenumerate}
+\item $(a+b)^2=a^2+2ab+b^2$
+\item $(a-b)^2=a^2-2ab+b^2$
+\item $(a-b)(a+b)=a^2-b^2$
+\end{defenumerate}
+\end{memento}
+\section{Développements complexes}
+
+\begin{nb}
+Quand on doit développer une expression qui comporte plusieurs termes, on considère chaque termes comme un développement élémentaire puis on regroupe le tout après.
+\end{nb}
+
+\begin{exemple}
+\begin{equation}
+\begin{split}
+A & =(x+2)(x+3)-2x(3x+5)+(2x-1)(x+4)\\
+&=(x^2+3x+2x+6)-(6x^2+10x)+(2x^2+8x-x-4)\\
+&=(x^2+5x+6)-(6x^2+10x)+(2x^2+7x-4)\\
+&=x^2+5x+6-6x^2-10x+2x^2+7x-4\\
+&=x^2-6x^2+2x^2+5x-10x+5x-6-4\\
+&=-3x^2-6x-9
+\end{split}
+\end{equation}
+\end{exemple}
+\exos
+
+\chapter{Factoriser une somme}
+\section*{Définition}
+\jar{Factoriser} une somme, c'est l'écrire sous la forme d'un \jar{produit}.
+
+\section{Factoriser par la mise en évidence d'un facteur commun}
+\begin{exemple*}
+\begin{equation}
+\begin{split}
+F&=2x^2-5x
+\end{split}
+\end{equation}
+
+\begin{equation}
+\begin{split}
+G&=\underline{(x-1)}(3x+5)+(2x-3)\underline{(x-1)}-4\underline{(x-1)}\\
+&=(x-1)\left[(3x+5)+(2x-3)-4 \right]\\
+&=(x-1)(3x+5+2x-3-4)\\
+&=(x-1)(3x+2x+5-3-4)\\
+G&=(x-1)(5x-2)
+\end{split}
+\end{equation}
+\end{exemple*}
+
+\section{Factoriser à l'aide d'une identité remarquable}
+\begin{memento}
+\begin{defenumerate}
+\item $a^2+2ab+b^2=(a+b)^2$
+\item $a^2-2ab+b^2=(a-b)^2$
+\item $a^2-b^2=(a-b)(a+b)$
+\end{defenumerate}
+\end{memento}
+\exos
+\chapter{Les polynômes}
+\section{Les monômes}
+\begin{defn}
+On appelle \jar{monôme} toute expression de la forme $ax^n$ où $a$ est nombre réel et $n$ un nombre entier naturel.
+\end{defn}
+
+\section{Les polynômes}
+\begin{defn}
+On appelle \jar{polynôme} toute somme algébrique de monômes.
+\end{defn}
 
 \exos
 
-\chapter{Puissances}
-\chapter{Développer un produit}
-\section{Développements élémentaires}
-\section{Développements complexes}
-
-\chapter{Factoriser une somme}
-\section{Factoriser par la mise en évidence d'un facteur commun}
-\section{Factoriser à l'aide d'une identité remarquable}
-
-\chapter{Les polynômes}
-
 \chapter{Les fractions rationnelles}
+\section{Les fractions rationnelles}
+\begin{defn}
+On appelle fraction rationnelle toute fraction dont le numérateur et le dénominateur sont des polynômes.
+\end{defn}
+
+\begin{exemple}
+$F=\frac{x+1}{x^2-3}$ \quad ; \quad $G=\frac{(x+5)(3x-1)}{(x+4)^2}$ \quad et \quad $H=\frac{(2x-5)(x-1)}{(x+4)(x-1)}$ sont des fractions rationnelles en x.
+\end{exemple}
+
+\section{Condition d'existence d'une valeur numérique}
+Une fraction rationnelle n'existe que si son dénominateur n'est pas nul (\jar{est différent de 0}).
+
+\begin{methode}
+Déterminer la condition d'existence d'une fraction rationnelle en $x$, revient à trouver toutes les valeurs de $x$ pour lesquelles son dénomateur n'est pas égal à 0.
+\end{methode} 
+
+\section{Simplifier une fraction rationnelle}
+Une fraction rationnelle n'est pas toujours écrit sous sa forme la plus simple. On pourra simplifier l'écriture d'une fraction rationnelle lorsque son numérateur et son dénominateur ont un diviseur commun.
+
+\begin{exemple}
+Simplifions:\\
+\begin{equation}
+\begin{split}
+G&=\frac{(x+1)(3x-2)}{(3x-2)(x+5)}\\
+G&=\frac{x+1}{x+5}\\
+\end{split}
+\end{equation}
+\end{exemple}
+
+\begin{attention}
+Pour simplifier une fraction rationnelle, il faut que son numérateur et son dénominateur soient sous leurs formes factorisées.
+\end{attention}
+
+\exos
 
 \chapter{Les racines carrés}
+\section{Présentation}
+\begin{defn}
+$a$ étant un nombre positif, la \jar{racine carrée de a} est le nombre positif dont le carré est \jar{a}.\\
+\begin{center}
+\includegraphics[scale=0.9,draft]{images/digramme_racine_carree.png}
+\end{center}
+\end{defn}
+
+\begin{exemples}
+\item $3^2=9$; $3$ étant positif, $\sqrt{9}=3$
+\item $7^2=49$; $7$ étant positif, $\sqrt{49}=7$
+\item $1,2^2=1,44$; $1,2$ étant positif, $\sqrt{1,44}=1,2$
+\end{exemples}
+
+\begin{nb}
+La racine carrée d'un nombre $a$ n'est pas toujours un nombre décimal.
+\ex
+$\sqrt{5}$ n'a pas d'écriture décimale. Et par définition $(\sqrt{5})^2=5$
+\end{nb}
+
+\section{Écriture sous la forme de $a\sqrt{b}$}
+\begin{prop}
+Si $a$ est nombre positif, alors $\sqrt{a^2}=a$\end{prop}
+
+\begin{methode}
+La propriété précedente permet d'écrire plus simplement la racine carrée de nombres relativement grand.\\
+
+\ex
+\begin{equation}
+\begin{split}
+\sqrt{180} &= \sqrt{2^2 \times 3^2 \times 5}\\
+&=\sqrt{2^2} \times \sqrt{3^2} \times \sqrt{5}\\
+&=2 \times 3 \times \sqrt{5}\\
+\sqrt{180}&=6\sqrt{5}
+\end{split}
+\end{equation}
+\end{methode}
+\exos
+
+\chapter{Calculer avec les racines carrés}
+\section{Addition et soustraction}
+
+\section{Multiplication}
+\section{Division}
+
+\exos
+
+\exos
 
 \chapter{Les intervalles}
+\exos
 
 \chapter{Dénombrement}
+\exos
 
 \chapter{Approximation décimale des nombres réels}
+\exos
 
 \chapter{Les applications}
+\exos
 
 \chapter{Les applications affines}
+\exos
 
 \chapter{Sens de variation d'une application affine}
+\exos
 
 \chapter{Parler statistique}
 La statistique est la branche des mathématiques qui traite des données. Elle a pour but de \jar{collecter} les informations de les \jar{classer}, puis de les \jar{interpréter}.
@@ -218,6 +417,8 @@ Voici la répartition des notes obtenues par les élèves d'une classe de $3^{è
 \end{enumerate}
 \end{exo}
 
+\exos
+
 \chapter{Traitement des données} 
 \begin{act}
 \begin{enumerate}
@@ -225,6 +426,7 @@ Voici la répartition des notes obtenues par les élèves d'une classe de $3^{è
 \item Exprimer cette proportion en pourcentage.
 \end{enumerate}
 \end{act}
+
 
 \section{La fréquence d'une modalité}
 \begin{defn}
@@ -246,19 +448,43 @@ On appelle mode d'une série statistique, toute modalité dont l'effectif est le
 \item On appelle \jar{fréquence cumulée} d'une modalité, la somme des fréquences des modalités inférieures ou égales à cette modalités.
 \end{defns}
 
+\exos
+
 \chapter{Visualiser une série statistique par un diagramme}
-\chapter{Les pyramides et les cônes}
+
+\exos
 
 \chapter{Le théorème de Thalès}
+\exos
+
 \chapter{La réciproque du théorème de Thalès}
+\exos
+
 \chapter{Le théorème de Pythagore}
+\exos
+
 \chapter{Démontrer qu'un triangle est rectangle}
+\exos
+
 \chapter{Sinus, cosinus et tangente d'un angle aigu}
+\exos
+
 \chapter{Propriétés des vecteurs}
+\exos
+
 \chapter{Repérer un point dans le plan}
+\exos
+
 \chapter{Les coordonnées d'un vecteur}
+\exos
+
 \chapter{Équations cartésiennes d'une droite}
+\exos
+
 \chapter{Les angles inscrits}
+\exos
+
 \chapter{Les pyramides et les cônes}
+\exos
 
 \end{document}

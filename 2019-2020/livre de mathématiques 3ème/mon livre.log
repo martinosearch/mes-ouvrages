@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2020.4.30)  30 APR 2020 11:04
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2020.4.30)  19 AUG 2020 23:15
 entering extended mode
 **mon*livre.tex
 
@@ -1649,6 +1649,9 @@ re.out")
 re.out")
 \@outlinefile=\write7
 
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 Chapitre 1.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def"
 File: se-ascii-print.def 2010/03/01 v1.8 stringenc: Printable ASCII characters
@@ -2118,10 +2121,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 36240 strings out of 429156
- 668891 string characters out of 3167929
- 884706 words of memory out of 3000000
- 38900 multiletter control sequences out of 15000+200000
+ 36241 strings out of 429156
+ 668913 string characters out of 3167929
+ 883614 words of memory out of 3000000
+ 38901 multiletter control sequences out of 15000+200000
  27091 words of font info for 111 fonts, out of 3000000 for 9000
  786 hyphenation exceptions out of 8191
  63i,13n,57p,623b,495s stack positions out of 5000i,500n,10000p,200000b,50000s

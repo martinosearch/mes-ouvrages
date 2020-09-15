@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.4.30)  30 APR 2020 12:05
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.4.30)  24 AUG 2020 08:12
 entering extended mode
 **devoir-3ème.tex
 
@@ -1009,7 +1009,7 @@ Package: xlop 2009/12/02 package wrapper for xlop.tex
 \c@exolisti=\count166
 \c@exolistii=\count167
 \enitdp@exolist=\count168
-\enitdp@defitemize=\count169
+\enitdp@defnslist=\count169
 \c@defenumeratei=\count170
 \enitdp@defenumerate=\count171
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mdframed\mdframed.sty"
@@ -1158,21 +1158,19 @@ File: block.tss 2011/08/28
 \c@count@lemme=\count182
 \c@count@cor=\count183
 \c@count@defn=\count184
-\teach@defn@box@height=\skip96
-\teach@defn@box@depth=\skip97
-\teach@defn@title@width=\skip98
 \c@indic@breakdemo=\count185
 \c@count@prop=\count186
-\c@count@exemple=\count187
-\arrayvertrulewidth=\skip99
-\arrayhspace=\skip100
-\c@count@savf=\count188
-\c@count@exo=\count189
-\c@countexo=\count190
-\c@count@corrige=\count191
-\teach@box@width=\skip101
-\c@count@competence=\count192
-\c@count@boucle=\count193
+\c@count@act=\count187
+\c@count@exemple=\count188
+\arrayvertrulewidth=\skip96
+\arrayhspace=\skip97
+\c@count@savf=\count189
+\c@count@exo=\count190
+\c@countexo=\count191
+\c@count@corrige=\count192
+\teach@box@width=\skip98
+\c@count@competence=\count193
+\c@count@boucle=\count194
 \tabtok=\toks35
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
@@ -1234,16 +1232,16 @@ File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count194
+\scratchcounter=\count195
 \scratchdimen=\dimen166
 \scratchbox=\box61
-\nofMPsegments=\count195
-\nofMParguments=\count196
+\nofMPsegments=\count196
+\nofMParguments=\count197
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count197
+\MPscratchCnt=\count198
 \MPscratchDim=\dimen167
-\MPnumerator=\count198
-\makeMPintoPDFobject=\count199
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count200
 \everyMPtoPDFconversion=\toks37
 )
 LaTeX Info: Redefining \degres on input line 19.
@@ -1574,10 +1572,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 ("D:\mes-documents\mes-ouvrages\2019-2020\Mes devoirs de Mathématiques 3ème\d
 evoir-3ème.aux") ) 
 Here is how much of TeX's memory you used:
- 10754 strings out of 494045
- 143676 string characters out of 3145969
- 388087 words of memory out of 3000000
- 13528 multiletter control sequences out of 15000+200000
+ 10772 strings out of 494045
+ 143830 string characters out of 3145969
+ 388086 words of memory out of 3000000
+ 13546 multiletter control sequences out of 15000+200000
  86466 words of font info for 105 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  48i,16n,46p,840b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
